@@ -1,0 +1,5079 @@
+java UglyNumberII
+=== Ugly Number II ===
+add 1
+list size = 1
+list size = 1, n = 23
+add 2
+list size = 2
+list size = 2, n = 23
+add 3
+list size = 3
+list size = 3, n = 23
+add 5
+list size = 4
+list size = 4, n = 23
+add 4
+list size = 5
+list size = 5, n = 23
+add 6
+list size = 6
+list size = 6, n = 23
+add 10
+list size = 7
+list size = 7, n = 23
+add 9
+list size = 8
+list size = 8, n = 23
+add 15
+list size = 9
+list size = 9, n = 23
+add 25
+list size = 10
+list size = 10, n = 23
+add 8
+list size = 11
+list size = 11, n = 23
+add 12
+list size = 12
+list size = 12, n = 23
+add 20
+list size = 13
+list size = 13, n = 23
+add 18
+list size = 14
+list size = 14, n = 23
+add 30
+list size = 15
+list size = 15, n = 23
+add 50
+list size = 16
+list size = 16, n = 23
+add 27
+list size = 17
+list size = 17, n = 23
+add 45
+list size = 18
+list size = 18, n = 23
+add 75
+list size = 19
+list size = 19, n = 23
+add 125
+list size = 20
+list size = 20, n = 23
+add 16
+list size = 21
+list size = 21, n = 23
+add 24
+list size = 22
+list size = 22, n = 23
+add 40
+list size = 23
+list size = 23, n = 23
+add 36
+list size = 24
+list size = 24, n = 23
+add 60
+list size = 25
+list size = 25, n = 23
+add 100
+list size = 26
+list size = 26, n = 23
+add 54
+list size = 27
+list size = 27, n = 23
+add 90
+list size = 28
+list size = 28, n = 23
+add 150
+list size = 29
+list size = 29, n = 23
+add 250
+list size = 30
+list size = 30, n = 23
+add 81
+list size = 31
+list size = 31, n = 23
+add 135
+list size = 32
+list size = 32, n = 23
+add 225
+list size = 33
+list size = 33, n = 23
+add 375
+list size = 34
+list size = 34, n = 23
+add 625
+list size = 35
+list size = 35, n = 23
+add 32
+list size = 36
+list size = 36, n = 23
+add 48
+list size = 37
+list size = 37, n = 23
+add 80
+list size = 38
+list size = 38, n = 23
+add 72
+list size = 39
+list size = 39, n = 23
+add 120
+list size = 40
+list size = 40, n = 23
+add 200
+list size = 41
+list size = 41, n = 23
+add 108
+list size = 42
+list size = 42, n = 23
+add 180
+list size = 43
+list size = 43, n = 23
+add 300
+list size = 44
+list size = 44, n = 23
+add 500
+list size = 45
+list size = 45, n = 23
+add 162
+list size = 46
+list size = 46, n = 23
+add 270
+list size = 47
+list size = 47, n = 23
+add 450
+list size = 48
+list size = 48, n = 23
+add 750
+list size = 49
+list size = 49, n = 23
+add 1250
+list size = 50
+list size = 50, n = 23
+add 243
+list size = 51
+list size = 51, n = 23
+add 405
+list size = 52
+list size = 52, n = 23
+add 675
+list size = 53
+list size = 53, n = 23
+add 1125
+list size = 54
+list size = 54, n = 23
+add 1875
+list size = 55
+list size = 55, n = 23
+add 3125
+list size = 56
+list size = 56, n = 23
+add 64
+list size = 57
+list size = 57, n = 23
+add 96
+list size = 58
+list size = 58, n = 23
+add 160
+list size = 59
+list size = 59, n = 23
+add 144
+list size = 60
+list size = 60, n = 23
+add 240
+list size = 61
+list size = 61, n = 23
+add 400
+list size = 62
+list size = 62, n = 23
+add 216
+list size = 63
+list size = 63, n = 23
+add 360
+list size = 64
+list size = 64, n = 23
+add 600
+list size = 65
+list size = 65, n = 23
+add 1000
+list size = 66
+list size = 66, n = 23
+add 324
+list size = 67
+list size = 67, n = 23
+add 540
+list size = 68
+list size = 68, n = 23
+add 900
+list size = 69
+list size = 69, n = 23
+add 1500
+list size = 70
+list size = 70, n = 23
+add 2500
+list size = 71
+list size = 71, n = 23
+add 486
+list size = 72
+list size = 72, n = 23
+add 810
+list size = 73
+list size = 73, n = 23
+add 1350
+list size = 74
+list size = 74, n = 23
+add 2250
+list size = 75
+list size = 75, n = 23
+add 3750
+list size = 76
+list size = 76, n = 23
+add 6250
+list size = 77
+list size = 77, n = 23
+add 729
+list size = 78
+list size = 78, n = 23
+add 1215
+list size = 79
+list size = 79, n = 23
+add 2025
+list size = 80
+list size = 80, n = 23
+add 3375
+list size = 81
+list size = 81, n = 23
+add 5625
+list size = 82
+list size = 82, n = 23
+add 9375
+list size = 83
+list size = 83, n = 23
+add 15625
+list size = 84
+list size = 84, n = 23
+add 128
+list size = 85
+list size = 85, n = 23
+add 192
+list size = 86
+list size = 86, n = 23
+add 320
+list size = 87
+list size = 87, n = 23
+add 288
+list size = 88
+list size = 88, n = 23
+add 480
+list size = 89
+list size = 89, n = 23
+add 800
+list size = 90
+list size = 90, n = 23
+add 432
+list size = 91
+list size = 91, n = 23
+add 720
+list size = 92
+list size = 92, n = 23
+add 1200
+list size = 93
+list size = 93, n = 23
+add 2000
+list size = 94
+list size = 94, n = 23
+add 648
+list size = 95
+list size = 95, n = 23
+add 1080
+list size = 96
+list size = 96, n = 23
+add 1800
+list size = 97
+list size = 97, n = 23
+add 3000
+list size = 98
+list size = 98, n = 23
+add 5000
+list size = 99
+list size = 99, n = 23
+add 972
+list size = 100
+list size = 100, n = 23
+add 1620
+list size = 101
+list size = 101, n = 23
+add 2700
+list size = 102
+list size = 102, n = 23
+add 4500
+list size = 103
+list size = 103, n = 23
+add 7500
+list size = 104
+list size = 104, n = 23
+add 12500
+list size = 105
+list size = 105, n = 23
+add 1458
+list size = 106
+list size = 106, n = 23
+add 2430
+list size = 107
+list size = 107, n = 23
+add 4050
+list size = 108
+list size = 108, n = 23
+add 6750
+list size = 109
+list size = 109, n = 23
+add 11250
+list size = 110
+list size = 110, n = 23
+add 18750
+list size = 111
+list size = 111, n = 23
+add 31250
+list size = 112
+list size = 112, n = 23
+add 2187
+list size = 113
+list size = 113, n = 23
+add 3645
+list size = 114
+list size = 114, n = 23
+add 6075
+list size = 115
+list size = 115, n = 23
+add 10125
+list size = 116
+list size = 116, n = 23
+add 16875
+list size = 117
+list size = 117, n = 23
+add 28125
+list size = 118
+list size = 118, n = 23
+add 46875
+list size = 119
+list size = 119, n = 23
+add 78125
+list size = 120
+list size = 120, n = 23
+add 256
+list size = 121
+list size = 121, n = 23
+add 384
+list size = 122
+list size = 122, n = 23
+add 640
+list size = 123
+list size = 123, n = 23
+add 576
+list size = 124
+list size = 124, n = 23
+add 960
+list size = 125
+list size = 125, n = 23
+add 1600
+list size = 126
+list size = 126, n = 23
+add 864
+list size = 127
+list size = 127, n = 23
+add 1440
+list size = 128
+list size = 128, n = 23
+add 2400
+list size = 129
+list size = 129, n = 23
+add 4000
+list size = 130
+list size = 130, n = 23
+add 1296
+list size = 131
+list size = 131, n = 23
+add 2160
+list size = 132
+list size = 132, n = 23
+add 3600
+list size = 133
+list size = 133, n = 23
+add 6000
+list size = 134
+list size = 134, n = 23
+add 10000
+list size = 135
+list size = 135, n = 23
+add 1944
+list size = 136
+list size = 136, n = 23
+add 3240
+list size = 137
+list size = 137, n = 23
+add 5400
+list size = 138
+list size = 138, n = 23
+add 9000
+list size = 139
+list size = 139, n = 23
+add 15000
+list size = 140
+list size = 140, n = 23
+add 25000
+list size = 141
+list size = 141, n = 23
+add 2916
+list size = 142
+list size = 142, n = 23
+add 4860
+list size = 143
+list size = 143, n = 23
+add 8100
+list size = 144
+list size = 144, n = 23
+add 13500
+list size = 145
+list size = 145, n = 23
+add 22500
+list size = 146
+list size = 146, n = 23
+add 37500
+list size = 147
+list size = 147, n = 23
+add 62500
+list size = 148
+list size = 148, n = 23
+add 4374
+list size = 149
+list size = 149, n = 23
+add 7290
+list size = 150
+list size = 150, n = 23
+add 12150
+list size = 151
+list size = 151, n = 23
+add 20250
+list size = 152
+list size = 152, n = 23
+add 33750
+list size = 153
+list size = 153, n = 23
+add 56250
+list size = 154
+list size = 154, n = 23
+add 93750
+list size = 155
+list size = 155, n = 23
+add 156250
+list size = 156
+list size = 156, n = 23
+add 6561
+list size = 157
+list size = 157, n = 23
+add 10935
+list size = 158
+list size = 158, n = 23
+add 18225
+list size = 159
+list size = 159, n = 23
+add 30375
+list size = 160
+list size = 160, n = 23
+add 50625
+list size = 161
+list size = 161, n = 23
+add 84375
+list size = 162
+list size = 162, n = 23
+add 140625
+list size = 163
+list size = 163, n = 23
+add 234375
+list size = 164
+list size = 164, n = 23
+add 390625
+list size = 165
+list size = 165, n = 23
+add 512
+list size = 166
+list size = 166, n = 23
+add 768
+list size = 167
+list size = 167, n = 23
+add 1280
+list size = 168
+list size = 168, n = 23
+add 1152
+list size = 169
+list size = 169, n = 23
+add 1920
+list size = 170
+list size = 170, n = 23
+add 3200
+list size = 171
+list size = 171, n = 23
+add 1728
+list size = 172
+list size = 172, n = 23
+add 2880
+list size = 173
+list size = 173, n = 23
+add 4800
+list size = 174
+list size = 174, n = 23
+add 8000
+list size = 175
+list size = 175, n = 23
+add 2592
+list size = 176
+list size = 176, n = 23
+add 4320
+list size = 177
+list size = 177, n = 23
+add 7200
+list size = 178
+list size = 178, n = 23
+add 12000
+list size = 179
+list size = 179, n = 23
+add 20000
+list size = 180
+list size = 180, n = 23
+add 3888
+list size = 181
+list size = 181, n = 23
+add 6480
+list size = 182
+list size = 182, n = 23
+add 10800
+list size = 183
+list size = 183, n = 23
+add 18000
+list size = 184
+list size = 184, n = 23
+add 30000
+list size = 185
+list size = 185, n = 23
+add 50000
+list size = 186
+list size = 186, n = 23
+add 5832
+list size = 187
+list size = 187, n = 23
+add 9720
+list size = 188
+list size = 188, n = 23
+add 16200
+list size = 189
+list size = 189, n = 23
+add 27000
+list size = 190
+list size = 190, n = 23
+add 45000
+list size = 191
+list size = 191, n = 23
+add 75000
+list size = 192
+list size = 192, n = 23
+add 125000
+list size = 193
+list size = 193, n = 23
+add 8748
+list size = 194
+list size = 194, n = 23
+add 14580
+list size = 195
+list size = 195, n = 23
+add 24300
+list size = 196
+list size = 196, n = 23
+add 40500
+list size = 197
+list size = 197, n = 23
+add 67500
+list size = 198
+list size = 198, n = 23
+add 112500
+list size = 199
+list size = 199, n = 23
+add 187500
+list size = 200
+list size = 200, n = 23
+add 312500
+list size = 201
+list size = 201, n = 23
+add 13122
+list size = 202
+list size = 202, n = 23
+add 21870
+list size = 203
+list size = 203, n = 23
+add 36450
+list size = 204
+list size = 204, n = 23
+add 60750
+list size = 205
+list size = 205, n = 23
+add 101250
+list size = 206
+list size = 206, n = 23
+add 168750
+list size = 207
+list size = 207, n = 23
+add 281250
+list size = 208
+list size = 208, n = 23
+add 468750
+list size = 209
+list size = 209, n = 23
+add 781250
+list size = 210
+list size = 210, n = 23
+add 19683
+list size = 211
+list size = 211, n = 23
+add 32805
+list size = 212
+list size = 212, n = 23
+add 54675
+list size = 213
+list size = 213, n = 23
+add 91125
+list size = 214
+list size = 214, n = 23
+add 151875
+list size = 215
+list size = 215, n = 23
+add 253125
+list size = 216
+list size = 216, n = 23
+add 421875
+list size = 217
+list size = 217, n = 23
+add 703125
+list size = 218
+list size = 218, n = 23
+add 1171875
+list size = 219
+list size = 219, n = 23
+add 1953125
+list size = 220
+list size = 220, n = 23
+add 1024
+list size = 221
+list size = 221, n = 23
+add 1536
+list size = 222
+list size = 222, n = 23
+add 2560
+list size = 223
+list size = 223, n = 23
+add 2304
+list size = 224
+list size = 224, n = 23
+add 3840
+list size = 225
+list size = 225, n = 23
+add 6400
+list size = 226
+list size = 226, n = 23
+add 3456
+list size = 227
+list size = 227, n = 23
+add 5760
+list size = 228
+list size = 228, n = 23
+add 9600
+list size = 229
+list size = 229, n = 23
+add 16000
+list size = 230
+list size = 230, n = 23
+add 5184
+list size = 231
+list size = 231, n = 23
+add 8640
+list size = 232
+list size = 232, n = 23
+add 14400
+list size = 233
+list size = 233, n = 23
+add 24000
+list size = 234
+list size = 234, n = 23
+add 40000
+list size = 235
+list size = 235, n = 23
+add 7776
+list size = 236
+list size = 236, n = 23
+add 12960
+list size = 237
+list size = 237, n = 23
+add 21600
+list size = 238
+list size = 238, n = 23
+add 36000
+list size = 239
+list size = 239, n = 23
+add 60000
+list size = 240
+list size = 240, n = 23
+add 100000
+list size = 241
+list size = 241, n = 23
+add 11664
+list size = 242
+list size = 242, n = 23
+add 19440
+list size = 243
+list size = 243, n = 23
+add 32400
+list size = 244
+list size = 244, n = 23
+add 54000
+list size = 245
+list size = 245, n = 23
+add 90000
+list size = 246
+list size = 246, n = 23
+add 150000
+list size = 247
+list size = 247, n = 23
+add 250000
+list size = 248
+list size = 248, n = 23
+add 17496
+list size = 249
+list size = 249, n = 23
+add 29160
+list size = 250
+list size = 250, n = 23
+add 48600
+list size = 251
+list size = 251, n = 23
+add 81000
+list size = 252
+list size = 252, n = 23
+add 135000
+list size = 253
+list size = 253, n = 23
+add 225000
+list size = 254
+list size = 254, n = 23
+add 375000
+list size = 255
+list size = 255, n = 23
+add 625000
+list size = 256
+list size = 256, n = 23
+add 26244
+list size = 257
+list size = 257, n = 23
+add 43740
+list size = 258
+list size = 258, n = 23
+add 72900
+list size = 259
+list size = 259, n = 23
+add 121500
+list size = 260
+list size = 260, n = 23
+add 202500
+list size = 261
+list size = 261, n = 23
+add 337500
+list size = 262
+list size = 262, n = 23
+add 562500
+list size = 263
+list size = 263, n = 23
+add 937500
+list size = 264
+list size = 264, n = 23
+add 1562500
+list size = 265
+list size = 265, n = 23
+add 39366
+list size = 266
+list size = 266, n = 23
+add 65610
+list size = 267
+list size = 267, n = 23
+add 109350
+list size = 268
+list size = 268, n = 23
+add 182250
+list size = 269
+list size = 269, n = 23
+add 303750
+list size = 270
+list size = 270, n = 23
+add 506250
+list size = 271
+list size = 271, n = 23
+add 843750
+list size = 272
+list size = 272, n = 23
+add 1406250
+list size = 273
+list size = 273, n = 23
+add 2343750
+list size = 274
+list size = 274, n = 23
+add 3906250
+list size = 275
+list size = 275, n = 23
+add 59049
+list size = 276
+list size = 276, n = 23
+add 98415
+list size = 277
+list size = 277, n = 23
+add 164025
+list size = 278
+list size = 278, n = 23
+add 273375
+list size = 279
+list size = 279, n = 23
+add 455625
+list size = 280
+list size = 280, n = 23
+add 759375
+list size = 281
+list size = 281, n = 23
+add 1265625
+list size = 282
+list size = 282, n = 23
+add 2109375
+list size = 283
+list size = 283, n = 23
+add 3515625
+list size = 284
+list size = 284, n = 23
+add 5859375
+list size = 285
+list size = 285, n = 23
+add 9765625
+list size = 286
+list size = 286, n = 23
+add 2048
+list size = 287
+list size = 287, n = 23
+add 3072
+list size = 288
+list size = 288, n = 23
+add 5120
+list size = 289
+list size = 289, n = 23
+add 4608
+list size = 290
+list size = 290, n = 23
+add 7680
+list size = 291
+list size = 291, n = 23
+add 12800
+list size = 292
+list size = 292, n = 23
+add 6912
+list size = 293
+list size = 293, n = 23
+add 11520
+list size = 294
+list size = 294, n = 23
+add 19200
+list size = 295
+list size = 295, n = 23
+add 32000
+list size = 296
+list size = 296, n = 23
+add 10368
+list size = 297
+list size = 297, n = 23
+add 17280
+list size = 298
+list size = 298, n = 23
+add 28800
+list size = 299
+list size = 299, n = 23
+add 48000
+list size = 300
+list size = 300, n = 23
+add 80000
+list size = 301
+list size = 301, n = 23
+add 15552
+list size = 302
+list size = 302, n = 23
+add 25920
+list size = 303
+list size = 303, n = 23
+add 43200
+list size = 304
+list size = 304, n = 23
+add 72000
+list size = 305
+list size = 305, n = 23
+add 120000
+list size = 306
+list size = 306, n = 23
+add 200000
+list size = 307
+list size = 307, n = 23
+add 23328
+list size = 308
+list size = 308, n = 23
+add 38880
+list size = 309
+list size = 309, n = 23
+add 64800
+list size = 310
+list size = 310, n = 23
+add 108000
+list size = 311
+list size = 311, n = 23
+add 180000
+list size = 312
+list size = 312, n = 23
+add 300000
+list size = 313
+list size = 313, n = 23
+add 500000
+list size = 314
+list size = 314, n = 23
+add 34992
+list size = 315
+list size = 315, n = 23
+add 58320
+list size = 316
+list size = 316, n = 23
+add 97200
+list size = 317
+list size = 317, n = 23
+add 162000
+list size = 318
+list size = 318, n = 23
+add 270000
+list size = 319
+list size = 319, n = 23
+add 450000
+list size = 320
+list size = 320, n = 23
+add 750000
+list size = 321
+list size = 321, n = 23
+add 1250000
+list size = 322
+list size = 322, n = 23
+add 52488
+list size = 323
+list size = 323, n = 23
+add 87480
+list size = 324
+list size = 324, n = 23
+add 145800
+list size = 325
+list size = 325, n = 23
+add 243000
+list size = 326
+list size = 326, n = 23
+add 405000
+list size = 327
+list size = 327, n = 23
+add 675000
+list size = 328
+list size = 328, n = 23
+add 1125000
+list size = 329
+list size = 329, n = 23
+add 1875000
+list size = 330
+list size = 330, n = 23
+add 3125000
+list size = 331
+list size = 331, n = 23
+add 78732
+list size = 332
+list size = 332, n = 23
+add 131220
+list size = 333
+list size = 333, n = 23
+add 218700
+list size = 334
+list size = 334, n = 23
+add 364500
+list size = 335
+list size = 335, n = 23
+add 607500
+list size = 336
+list size = 336, n = 23
+add 1012500
+list size = 337
+list size = 337, n = 23
+add 1687500
+list size = 338
+list size = 338, n = 23
+add 2812500
+list size = 339
+list size = 339, n = 23
+add 4687500
+list size = 340
+list size = 340, n = 23
+add 7812500
+list size = 341
+list size = 341, n = 23
+add 118098
+list size = 342
+list size = 342, n = 23
+add 196830
+list size = 343
+list size = 343, n = 23
+add 328050
+list size = 344
+list size = 344, n = 23
+add 546750
+list size = 345
+list size = 345, n = 23
+add 911250
+list size = 346
+list size = 346, n = 23
+add 1518750
+list size = 347
+list size = 347, n = 23
+add 2531250
+list size = 348
+list size = 348, n = 23
+add 4218750
+list size = 349
+list size = 349, n = 23
+add 7031250
+list size = 350
+list size = 350, n = 23
+add 11718750
+list size = 351
+list size = 351, n = 23
+add 19531250
+list size = 352
+list size = 352, n = 23
+add 177147
+list size = 353
+list size = 353, n = 23
+add 295245
+list size = 354
+list size = 354, n = 23
+add 492075
+list size = 355
+list size = 355, n = 23
+add 820125
+list size = 356
+list size = 356, n = 23
+add 1366875
+list size = 357
+list size = 357, n = 23
+add 2278125
+list size = 358
+list size = 358, n = 23
+add 3796875
+list size = 359
+list size = 359, n = 23
+add 6328125
+list size = 360
+list size = 360, n = 23
+add 10546875
+list size = 361
+list size = 361, n = 23
+add 17578125
+list size = 362
+list size = 362, n = 23
+add 29296875
+list size = 363
+list size = 363, n = 23
+add 48828125
+list size = 364
+list size = 364, n = 23
+add 4096
+list size = 365
+list size = 365, n = 23
+add 6144
+list size = 366
+list size = 366, n = 23
+add 10240
+list size = 367
+list size = 367, n = 23
+add 9216
+list size = 368
+list size = 368, n = 23
+add 15360
+list size = 369
+list size = 369, n = 23
+add 25600
+list size = 370
+list size = 370, n = 23
+add 13824
+list size = 371
+list size = 371, n = 23
+add 23040
+list size = 372
+list size = 372, n = 23
+add 38400
+list size = 373
+list size = 373, n = 23
+add 64000
+list size = 374
+list size = 374, n = 23
+add 20736
+list size = 375
+list size = 375, n = 23
+add 34560
+list size = 376
+list size = 376, n = 23
+add 57600
+list size = 377
+list size = 377, n = 23
+add 96000
+list size = 378
+list size = 378, n = 23
+add 160000
+list size = 379
+list size = 379, n = 23
+add 31104
+list size = 380
+list size = 380, n = 23
+add 51840
+list size = 381
+list size = 381, n = 23
+add 86400
+list size = 382
+list size = 382, n = 23
+add 144000
+list size = 383
+list size = 383, n = 23
+add 240000
+list size = 384
+list size = 384, n = 23
+add 400000
+list size = 385
+list size = 385, n = 23
+add 46656
+list size = 386
+list size = 386, n = 23
+add 77760
+list size = 387
+list size = 387, n = 23
+add 129600
+list size = 388
+list size = 388, n = 23
+add 216000
+list size = 389
+list size = 389, n = 23
+add 360000
+list size = 390
+list size = 390, n = 23
+add 600000
+list size = 391
+list size = 391, n = 23
+add 1000000
+list size = 392
+list size = 392, n = 23
+add 69984
+list size = 393
+list size = 393, n = 23
+add 116640
+list size = 394
+list size = 394, n = 23
+add 194400
+list size = 395
+list size = 395, n = 23
+add 324000
+list size = 396
+list size = 396, n = 23
+add 540000
+list size = 397
+list size = 397, n = 23
+add 900000
+list size = 398
+list size = 398, n = 23
+add 1500000
+list size = 399
+list size = 399, n = 23
+add 2500000
+list size = 400
+list size = 400, n = 23
+add 104976
+list size = 401
+list size = 401, n = 23
+add 174960
+list size = 402
+list size = 402, n = 23
+add 291600
+list size = 403
+list size = 403, n = 23
+add 486000
+list size = 404
+list size = 404, n = 23
+add 810000
+list size = 405
+list size = 405, n = 23
+add 1350000
+list size = 406
+list size = 406, n = 23
+add 2250000
+list size = 407
+list size = 407, n = 23
+add 3750000
+list size = 408
+list size = 408, n = 23
+add 6250000
+list size = 409
+list size = 409, n = 23
+add 157464
+list size = 410
+list size = 410, n = 23
+add 262440
+list size = 411
+list size = 411, n = 23
+add 437400
+list size = 412
+list size = 412, n = 23
+add 729000
+list size = 413
+list size = 413, n = 23
+add 1215000
+list size = 414
+list size = 414, n = 23
+add 2025000
+list size = 415
+list size = 415, n = 23
+add 3375000
+list size = 416
+list size = 416, n = 23
+add 5625000
+list size = 417
+list size = 417, n = 23
+add 9375000
+list size = 418
+list size = 418, n = 23
+add 15625000
+list size = 419
+list size = 419, n = 23
+add 236196
+list size = 420
+list size = 420, n = 23
+add 393660
+list size = 421
+list size = 421, n = 23
+add 656100
+list size = 422
+list size = 422, n = 23
+add 1093500
+list size = 423
+list size = 423, n = 23
+add 1822500
+list size = 424
+list size = 424, n = 23
+add 3037500
+list size = 425
+list size = 425, n = 23
+add 5062500
+list size = 426
+list size = 426, n = 23
+add 8437500
+list size = 427
+list size = 427, n = 23
+add 14062500
+list size = 428
+list size = 428, n = 23
+add 23437500
+list size = 429
+list size = 429, n = 23
+add 39062500
+list size = 430
+list size = 430, n = 23
+add 354294
+list size = 431
+list size = 431, n = 23
+add 590490
+list size = 432
+list size = 432, n = 23
+add 984150
+list size = 433
+list size = 433, n = 23
+add 1640250
+list size = 434
+list size = 434, n = 23
+add 2733750
+list size = 435
+list size = 435, n = 23
+add 4556250
+list size = 436
+list size = 436, n = 23
+add 7593750
+list size = 437
+list size = 437, n = 23
+add 12656250
+list size = 438
+list size = 438, n = 23
+add 21093750
+list size = 439
+list size = 439, n = 23
+add 35156250
+list size = 440
+list size = 440, n = 23
+add 58593750
+list size = 441
+list size = 441, n = 23
+add 97656250
+list size = 442
+list size = 442, n = 23
+add 531441
+list size = 443
+list size = 443, n = 23
+add 885735
+list size = 444
+list size = 444, n = 23
+add 1476225
+list size = 445
+list size = 445, n = 23
+add 2460375
+list size = 446
+list size = 446, n = 23
+add 4100625
+list size = 447
+list size = 447, n = 23
+add 6834375
+list size = 448
+list size = 448, n = 23
+add 11390625
+list size = 449
+list size = 449, n = 23
+add 18984375
+list size = 450
+list size = 450, n = 23
+add 31640625
+list size = 451
+list size = 451, n = 23
+add 52734375
+list size = 452
+list size = 452, n = 23
+add 87890625
+list size = 453
+list size = 453, n = 23
+add 146484375
+list size = 454
+list size = 454, n = 23
+add 244140625
+list size = 455
+list size = 455, n = 23
+add 8192
+list size = 456
+list size = 456, n = 23
+add 12288
+list size = 457
+list size = 457, n = 23
+add 20480
+list size = 458
+list size = 458, n = 23
+add 18432
+list size = 459
+list size = 459, n = 23
+add 30720
+list size = 460
+list size = 460, n = 23
+add 51200
+list size = 461
+list size = 461, n = 23
+add 27648
+list size = 462
+list size = 462, n = 23
+add 46080
+list size = 463
+list size = 463, n = 23
+add 76800
+list size = 464
+list size = 464, n = 23
+add 128000
+list size = 465
+list size = 465, n = 23
+add 41472
+list size = 466
+list size = 466, n = 23
+add 69120
+list size = 467
+list size = 467, n = 23
+add 115200
+list size = 468
+list size = 468, n = 23
+add 192000
+list size = 469
+list size = 469, n = 23
+add 320000
+list size = 470
+list size = 470, n = 23
+add 62208
+list size = 471
+list size = 471, n = 23
+add 103680
+list size = 472
+list size = 472, n = 23
+add 172800
+list size = 473
+list size = 473, n = 23
+add 288000
+list size = 474
+list size = 474, n = 23
+add 480000
+list size = 475
+list size = 475, n = 23
+add 800000
+list size = 476
+list size = 476, n = 23
+add 93312
+list size = 477
+list size = 477, n = 23
+add 155520
+list size = 478
+list size = 478, n = 23
+add 259200
+list size = 479
+list size = 479, n = 23
+add 432000
+list size = 480
+list size = 480, n = 23
+add 720000
+list size = 481
+list size = 481, n = 23
+add 1200000
+list size = 482
+list size = 482, n = 23
+add 2000000
+list size = 483
+list size = 483, n = 23
+add 139968
+list size = 484
+list size = 484, n = 23
+add 233280
+list size = 485
+list size = 485, n = 23
+add 388800
+list size = 486
+list size = 486, n = 23
+add 648000
+list size = 487
+list size = 487, n = 23
+add 1080000
+list size = 488
+list size = 488, n = 23
+add 1800000
+list size = 489
+list size = 489, n = 23
+add 3000000
+list size = 490
+list size = 490, n = 23
+add 5000000
+list size = 491
+list size = 491, n = 23
+add 209952
+list size = 492
+list size = 492, n = 23
+add 349920
+list size = 493
+list size = 493, n = 23
+add 583200
+list size = 494
+list size = 494, n = 23
+add 972000
+list size = 495
+list size = 495, n = 23
+add 1620000
+list size = 496
+list size = 496, n = 23
+add 2700000
+list size = 497
+list size = 497, n = 23
+add 4500000
+list size = 498
+list size = 498, n = 23
+add 7500000
+list size = 499
+list size = 499, n = 23
+add 12500000
+list size = 500
+list size = 500, n = 23
+add 314928
+list size = 501
+list size = 501, n = 23
+add 524880
+list size = 502
+list size = 502, n = 23
+add 874800
+list size = 503
+list size = 503, n = 23
+add 1458000
+list size = 504
+list size = 504, n = 23
+add 2430000
+list size = 505
+list size = 505, n = 23
+add 4050000
+list size = 506
+list size = 506, n = 23
+add 6750000
+list size = 507
+list size = 507, n = 23
+add 11250000
+list size = 508
+list size = 508, n = 23
+add 18750000
+list size = 509
+list size = 509, n = 23
+add 31250000
+list size = 510
+list size = 510, n = 23
+add 472392
+list size = 511
+list size = 511, n = 23
+add 787320
+list size = 512
+list size = 512, n = 23
+add 1312200
+list size = 513
+list size = 513, n = 23
+add 2187000
+list size = 514
+list size = 514, n = 23
+add 3645000
+list size = 515
+list size = 515, n = 23
+add 6075000
+list size = 516
+list size = 516, n = 23
+add 10125000
+list size = 517
+list size = 517, n = 23
+add 16875000
+list size = 518
+list size = 518, n = 23
+add 28125000
+list size = 519
+list size = 519, n = 23
+add 46875000
+list size = 520
+list size = 520, n = 23
+add 78125000
+list size = 521
+list size = 521, n = 23
+add 708588
+list size = 522
+list size = 522, n = 23
+add 1180980
+list size = 523
+list size = 523, n = 23
+add 1968300
+list size = 524
+list size = 524, n = 23
+add 3280500
+list size = 525
+list size = 525, n = 23
+add 5467500
+list size = 526
+list size = 526, n = 23
+add 9112500
+list size = 527
+list size = 527, n = 23
+add 15187500
+list size = 528
+list size = 528, n = 23
+add 25312500
+list size = 529
+list size = 529, n = 23
+add 42187500
+list size = 530
+list size = 530, n = 23
+add 70312500
+list size = 531
+list size = 531, n = 23
+add 117187500
+list size = 532
+list size = 532, n = 23
+add 195312500
+list size = 533
+list size = 533, n = 23
+add 1062882
+list size = 534
+list size = 534, n = 23
+add 1771470
+list size = 535
+list size = 535, n = 23
+add 2952450
+list size = 536
+list size = 536, n = 23
+add 4920750
+list size = 537
+list size = 537, n = 23
+add 8201250
+list size = 538
+list size = 538, n = 23
+add 13668750
+list size = 539
+list size = 539, n = 23
+add 22781250
+list size = 540
+list size = 540, n = 23
+add 37968750
+list size = 541
+list size = 541, n = 23
+add 63281250
+list size = 542
+list size = 542, n = 23
+add 105468750
+list size = 543
+list size = 543, n = 23
+add 175781250
+list size = 544
+list size = 544, n = 23
+add 292968750
+list size = 545
+list size = 545, n = 23
+add 488281250
+list size = 546
+list size = 546, n = 23
+add 1594323
+list size = 547
+list size = 547, n = 23
+add 2657205
+list size = 548
+list size = 548, n = 23
+add 4428675
+list size = 549
+list size = 549, n = 23
+add 7381125
+list size = 550
+list size = 550, n = 23
+add 12301875
+list size = 551
+list size = 551, n = 23
+add 20503125
+list size = 552
+list size = 552, n = 23
+add 34171875
+list size = 553
+list size = 553, n = 23
+add 56953125
+list size = 554
+list size = 554, n = 23
+add 94921875
+list size = 555
+list size = 555, n = 23
+add 158203125
+list size = 556
+list size = 556, n = 23
+add 263671875
+list size = 557
+list size = 557, n = 23
+add 439453125
+list size = 558
+list size = 558, n = 23
+add 732421875
+list size = 559
+list size = 559, n = 23
+add 1220703125
+list size = 560
+list size = 560, n = 23
+add 16384
+list size = 561
+list size = 561, n = 23
+add 24576
+list size = 562
+list size = 562, n = 23
+add 40960
+list size = 563
+list size = 563, n = 23
+add 36864
+list size = 564
+list size = 564, n = 23
+add 61440
+list size = 565
+list size = 565, n = 23
+add 102400
+list size = 566
+list size = 566, n = 23
+add 55296
+list size = 567
+list size = 567, n = 23
+add 92160
+list size = 568
+list size = 568, n = 23
+add 153600
+list size = 569
+list size = 569, n = 23
+add 256000
+list size = 570
+list size = 570, n = 23
+add 82944
+list size = 571
+list size = 571, n = 23
+add 138240
+list size = 572
+list size = 572, n = 23
+add 230400
+list size = 573
+list size = 573, n = 23
+add 384000
+list size = 574
+list size = 574, n = 23
+add 640000
+list size = 575
+list size = 575, n = 23
+add 124416
+list size = 576
+list size = 576, n = 23
+add 207360
+list size = 577
+list size = 577, n = 23
+add 345600
+list size = 578
+list size = 578, n = 23
+add 576000
+list size = 579
+list size = 579, n = 23
+add 960000
+list size = 580
+list size = 580, n = 23
+add 1600000
+list size = 581
+list size = 581, n = 23
+add 186624
+list size = 582
+list size = 582, n = 23
+add 311040
+list size = 583
+list size = 583, n = 23
+add 518400
+list size = 584
+list size = 584, n = 23
+add 864000
+list size = 585
+list size = 585, n = 23
+add 1440000
+list size = 586
+list size = 586, n = 23
+add 2400000
+list size = 587
+list size = 587, n = 23
+add 4000000
+list size = 588
+list size = 588, n = 23
+add 279936
+list size = 589
+list size = 589, n = 23
+add 466560
+list size = 590
+list size = 590, n = 23
+add 777600
+list size = 591
+list size = 591, n = 23
+add 1296000
+list size = 592
+list size = 592, n = 23
+add 2160000
+list size = 593
+list size = 593, n = 23
+add 3600000
+list size = 594
+list size = 594, n = 23
+add 6000000
+list size = 595
+list size = 595, n = 23
+add 10000000
+list size = 596
+list size = 596, n = 23
+add 419904
+list size = 597
+list size = 597, n = 23
+add 699840
+list size = 598
+list size = 598, n = 23
+add 1166400
+list size = 599
+list size = 599, n = 23
+add 1944000
+list size = 600
+list size = 600, n = 23
+add 3240000
+list size = 601
+list size = 601, n = 23
+add 5400000
+list size = 602
+list size = 602, n = 23
+add 9000000
+list size = 603
+list size = 603, n = 23
+add 15000000
+list size = 604
+list size = 604, n = 23
+add 25000000
+list size = 605
+list size = 605, n = 23
+add 629856
+list size = 606
+list size = 606, n = 23
+add 1049760
+list size = 607
+list size = 607, n = 23
+add 1749600
+list size = 608
+list size = 608, n = 23
+add 2916000
+list size = 609
+list size = 609, n = 23
+add 4860000
+list size = 610
+list size = 610, n = 23
+add 8100000
+list size = 611
+list size = 611, n = 23
+add 13500000
+list size = 612
+list size = 612, n = 23
+add 22500000
+list size = 613
+list size = 613, n = 23
+add 37500000
+list size = 614
+list size = 614, n = 23
+add 62500000
+list size = 615
+list size = 615, n = 23
+add 944784
+list size = 616
+list size = 616, n = 23
+add 1574640
+list size = 617
+list size = 617, n = 23
+add 2624400
+list size = 618
+list size = 618, n = 23
+add 4374000
+list size = 619
+list size = 619, n = 23
+add 7290000
+list size = 620
+list size = 620, n = 23
+add 12150000
+list size = 621
+list size = 621, n = 23
+add 20250000
+list size = 622
+list size = 622, n = 23
+add 33750000
+list size = 623
+list size = 623, n = 23
+add 56250000
+list size = 624
+list size = 624, n = 23
+add 93750000
+list size = 625
+list size = 625, n = 23
+add 156250000
+list size = 626
+list size = 626, n = 23
+add 1417176
+list size = 627
+list size = 627, n = 23
+add 2361960
+list size = 628
+list size = 628, n = 23
+add 3936600
+list size = 629
+list size = 629, n = 23
+add 6561000
+list size = 630
+list size = 630, n = 23
+add 10935000
+list size = 631
+list size = 631, n = 23
+add 18225000
+list size = 632
+list size = 632, n = 23
+add 30375000
+list size = 633
+list size = 633, n = 23
+add 50625000
+list size = 634
+list size = 634, n = 23
+add 84375000
+list size = 635
+list size = 635, n = 23
+add 140625000
+list size = 636
+list size = 636, n = 23
+add 234375000
+list size = 637
+list size = 637, n = 23
+add 390625000
+list size = 638
+list size = 638, n = 23
+add 2125764
+list size = 639
+list size = 639, n = 23
+add 3542940
+list size = 640
+list size = 640, n = 23
+add 5904900
+list size = 641
+list size = 641, n = 23
+add 9841500
+list size = 642
+list size = 642, n = 23
+add 16402500
+list size = 643
+list size = 643, n = 23
+add 27337500
+list size = 644
+list size = 644, n = 23
+add 45562500
+list size = 645
+list size = 645, n = 23
+add 75937500
+list size = 646
+list size = 646, n = 23
+add 126562500
+list size = 647
+list size = 647, n = 23
+add 210937500
+list size = 648
+list size = 648, n = 23
+add 351562500
+list size = 649
+list size = 649, n = 23
+add 585937500
+list size = 650
+list size = 650, n = 23
+add 976562500
+list size = 651
+list size = 651, n = 23
+add 3188646
+list size = 652
+list size = 652, n = 23
+add 5314410
+list size = 653
+list size = 653, n = 23
+add 8857350
+list size = 654
+list size = 654, n = 23
+add 14762250
+list size = 655
+list size = 655, n = 23
+add 24603750
+list size = 656
+list size = 656, n = 23
+add 41006250
+list size = 657
+list size = 657, n = 23
+add 68343750
+list size = 658
+list size = 658, n = 23
+add 113906250
+list size = 659
+list size = 659, n = 23
+add 189843750
+list size = 660
+list size = 660, n = 23
+add 316406250
+list size = 661
+list size = 661, n = 23
+add 527343750
+list size = 662
+list size = 662, n = 23
+add 878906250
+list size = 663
+list size = 663, n = 23
+add 1464843750
+list size = 664
+list size = 664, n = 23
+add 4782969
+list size = 665
+list size = 665, n = 23
+add 7971615
+list size = 666
+list size = 666, n = 23
+add 13286025
+list size = 667
+list size = 667, n = 23
+add 22143375
+list size = 668
+list size = 668, n = 23
+add 36905625
+list size = 669
+list size = 669, n = 23
+add 61509375
+list size = 670
+list size = 670, n = 23
+add 102515625
+list size = 671
+list size = 671, n = 23
+add 170859375
+list size = 672
+list size = 672, n = 23
+add 284765625
+list size = 673
+list size = 673, n = 23
+add 474609375
+list size = 674
+list size = 674, n = 23
+add 791015625
+list size = 675
+list size = 675, n = 23
+add 1318359375
+list size = 676
+list size = 676, n = 23
+add 32768
+list size = 677
+list size = 677, n = 23
+add 49152
+list size = 678
+list size = 678, n = 23
+add 81920
+list size = 679
+list size = 679, n = 23
+add 73728
+list size = 680
+list size = 680, n = 23
+add 122880
+list size = 681
+list size = 681, n = 23
+add 204800
+list size = 682
+list size = 682, n = 23
+add 110592
+list size = 683
+list size = 683, n = 23
+add 184320
+list size = 684
+list size = 684, n = 23
+add 307200
+list size = 685
+list size = 685, n = 23
+add 512000
+list size = 686
+list size = 686, n = 23
+add 165888
+list size = 687
+list size = 687, n = 23
+add 276480
+list size = 688
+list size = 688, n = 23
+add 460800
+list size = 689
+list size = 689, n = 23
+add 768000
+list size = 690
+list size = 690, n = 23
+add 1280000
+list size = 691
+list size = 691, n = 23
+add 248832
+list size = 692
+list size = 692, n = 23
+add 414720
+list size = 693
+list size = 693, n = 23
+add 691200
+list size = 694
+list size = 694, n = 23
+add 1152000
+list size = 695
+list size = 695, n = 23
+add 1920000
+list size = 696
+list size = 696, n = 23
+add 3200000
+list size = 697
+list size = 697, n = 23
+add 373248
+list size = 698
+list size = 698, n = 23
+add 622080
+list size = 699
+list size = 699, n = 23
+add 1036800
+list size = 700
+list size = 700, n = 23
+add 1728000
+list size = 701
+list size = 701, n = 23
+add 2880000
+list size = 702
+list size = 702, n = 23
+add 4800000
+list size = 703
+list size = 703, n = 23
+add 8000000
+list size = 704
+list size = 704, n = 23
+add 559872
+list size = 705
+list size = 705, n = 23
+add 933120
+list size = 706
+list size = 706, n = 23
+add 1555200
+list size = 707
+list size = 707, n = 23
+add 2592000
+list size = 708
+list size = 708, n = 23
+add 4320000
+list size = 709
+list size = 709, n = 23
+add 7200000
+list size = 710
+list size = 710, n = 23
+add 12000000
+list size = 711
+list size = 711, n = 23
+add 20000000
+list size = 712
+list size = 712, n = 23
+add 839808
+list size = 713
+list size = 713, n = 23
+add 1399680
+list size = 714
+list size = 714, n = 23
+add 2332800
+list size = 715
+list size = 715, n = 23
+add 3888000
+list size = 716
+list size = 716, n = 23
+add 6480000
+list size = 717
+list size = 717, n = 23
+add 10800000
+list size = 718
+list size = 718, n = 23
+add 18000000
+list size = 719
+list size = 719, n = 23
+add 30000000
+list size = 720
+list size = 720, n = 23
+add 50000000
+list size = 721
+list size = 721, n = 23
+add 1259712
+list size = 722
+list size = 722, n = 23
+add 2099520
+list size = 723
+list size = 723, n = 23
+add 3499200
+list size = 724
+list size = 724, n = 23
+add 5832000
+list size = 725
+list size = 725, n = 23
+add 9720000
+list size = 726
+list size = 726, n = 23
+add 16200000
+list size = 727
+list size = 727, n = 23
+add 27000000
+list size = 728
+list size = 728, n = 23
+add 45000000
+list size = 729
+list size = 729, n = 23
+add 75000000
+list size = 730
+list size = 730, n = 23
+add 125000000
+list size = 731
+list size = 731, n = 23
+add 1889568
+list size = 732
+list size = 732, n = 23
+add 3149280
+list size = 733
+list size = 733, n = 23
+add 5248800
+list size = 734
+list size = 734, n = 23
+add 8748000
+list size = 735
+list size = 735, n = 23
+add 14580000
+list size = 736
+list size = 736, n = 23
+add 24300000
+list size = 737
+list size = 737, n = 23
+add 40500000
+list size = 738
+list size = 738, n = 23
+add 67500000
+list size = 739
+list size = 739, n = 23
+add 112500000
+list size = 740
+list size = 740, n = 23
+add 187500000
+list size = 741
+list size = 741, n = 23
+add 312500000
+list size = 742
+list size = 742, n = 23
+add 2834352
+list size = 743
+list size = 743, n = 23
+add 4723920
+list size = 744
+list size = 744, n = 23
+add 7873200
+list size = 745
+list size = 745, n = 23
+add 13122000
+list size = 746
+list size = 746, n = 23
+add 21870000
+list size = 747
+list size = 747, n = 23
+add 36450000
+list size = 748
+list size = 748, n = 23
+add 60750000
+list size = 749
+list size = 749, n = 23
+add 101250000
+list size = 750
+list size = 750, n = 23
+add 168750000
+list size = 751
+list size = 751, n = 23
+add 281250000
+list size = 752
+list size = 752, n = 23
+add 468750000
+list size = 753
+list size = 753, n = 23
+add 781250000
+list size = 754
+list size = 754, n = 23
+add 4251528
+list size = 755
+list size = 755, n = 23
+add 7085880
+list size = 756
+list size = 756, n = 23
+add 11809800
+list size = 757
+list size = 757, n = 23
+add 19683000
+list size = 758
+list size = 758, n = 23
+add 32805000
+list size = 759
+list size = 759, n = 23
+add 54675000
+list size = 760
+list size = 760, n = 23
+add 91125000
+list size = 761
+list size = 761, n = 23
+add 151875000
+list size = 762
+list size = 762, n = 23
+add 253125000
+list size = 763
+list size = 763, n = 23
+add 421875000
+list size = 764
+list size = 764, n = 23
+add 703125000
+list size = 765
+list size = 765, n = 23
+add 1171875000
+list size = 766
+list size = 766, n = 23
+add 1953125000
+list size = 767
+list size = 767, n = 23
+add 6377292
+list size = 768
+list size = 768, n = 23
+add 10628820
+list size = 769
+list size = 769, n = 23
+add 17714700
+list size = 770
+list size = 770, n = 23
+add 29524500
+list size = 771
+list size = 771, n = 23
+add 49207500
+list size = 772
+list size = 772, n = 23
+add 82012500
+list size = 773
+list size = 773, n = 23
+add 136687500
+list size = 774
+list size = 774, n = 23
+add 227812500
+list size = 775
+list size = 775, n = 23
+add 379687500
+list size = 776
+list size = 776, n = 23
+add 632812500
+list size = 777
+list size = 777, n = 23
+add 1054687500
+list size = 778
+list size = 778, n = 23
+add 1757812500
+list size = 779
+list size = 779, n = 23
+add 9565938
+list size = 780
+list size = 780, n = 23
+add 15943230
+list size = 781
+list size = 781, n = 23
+add 26572050
+list size = 782
+list size = 782, n = 23
+add 44286750
+list size = 783
+list size = 783, n = 23
+add 73811250
+list size = 784
+list size = 784, n = 23
+add 123018750
+list size = 785
+list size = 785, n = 23
+add 205031250
+list size = 786
+list size = 786, n = 23
+add 341718750
+list size = 787
+list size = 787, n = 23
+add 569531250
+list size = 788
+list size = 788, n = 23
+add 949218750
+list size = 789
+list size = 789, n = 23
+add 1582031250
+list size = 790
+list size = 790, n = 23
+add 14348907
+list size = 791
+list size = 791, n = 23
+add 23914845
+list size = 792
+list size = 792, n = 23
+add 39858075
+list size = 793
+list size = 793, n = 23
+add 66430125
+list size = 794
+list size = 794, n = 23
+add 110716875
+list size = 795
+list size = 795, n = 23
+add 184528125
+list size = 796
+list size = 796, n = 23
+add 307546875
+list size = 797
+list size = 797, n = 23
+add 512578125
+list size = 798
+list size = 798, n = 23
+add 854296875
+list size = 799
+list size = 799, n = 23
+add 1423828125
+list size = 800
+list size = 800, n = 23
+add 65536
+list size = 801
+list size = 801, n = 23
+add 98304
+list size = 802
+list size = 802, n = 23
+add 163840
+list size = 803
+list size = 803, n = 23
+add 147456
+list size = 804
+list size = 804, n = 23
+add 245760
+list size = 805
+list size = 805, n = 23
+add 409600
+list size = 806
+list size = 806, n = 23
+add 221184
+list size = 807
+list size = 807, n = 23
+add 368640
+list size = 808
+list size = 808, n = 23
+add 614400
+list size = 809
+list size = 809, n = 23
+add 1024000
+list size = 810
+list size = 810, n = 23
+add 331776
+list size = 811
+list size = 811, n = 23
+add 552960
+list size = 812
+list size = 812, n = 23
+add 921600
+list size = 813
+list size = 813, n = 23
+add 1536000
+list size = 814
+list size = 814, n = 23
+add 2560000
+list size = 815
+list size = 815, n = 23
+add 497664
+list size = 816
+list size = 816, n = 23
+add 829440
+list size = 817
+list size = 817, n = 23
+add 1382400
+list size = 818
+list size = 818, n = 23
+add 2304000
+list size = 819
+list size = 819, n = 23
+add 3840000
+list size = 820
+list size = 820, n = 23
+add 6400000
+list size = 821
+list size = 821, n = 23
+add 746496
+list size = 822
+list size = 822, n = 23
+add 1244160
+list size = 823
+list size = 823, n = 23
+add 2073600
+list size = 824
+list size = 824, n = 23
+add 3456000
+list size = 825
+list size = 825, n = 23
+add 5760000
+list size = 826
+list size = 826, n = 23
+add 9600000
+list size = 827
+list size = 827, n = 23
+add 16000000
+list size = 828
+list size = 828, n = 23
+add 1119744
+list size = 829
+list size = 829, n = 23
+add 1866240
+list size = 830
+list size = 830, n = 23
+add 3110400
+list size = 831
+list size = 831, n = 23
+add 5184000
+list size = 832
+list size = 832, n = 23
+add 8640000
+list size = 833
+list size = 833, n = 23
+add 14400000
+list size = 834
+list size = 834, n = 23
+add 24000000
+list size = 835
+list size = 835, n = 23
+add 40000000
+list size = 836
+list size = 836, n = 23
+add 1679616
+list size = 837
+list size = 837, n = 23
+add 2799360
+list size = 838
+list size = 838, n = 23
+add 4665600
+list size = 839
+list size = 839, n = 23
+add 7776000
+list size = 840
+list size = 840, n = 23
+add 12960000
+list size = 841
+list size = 841, n = 23
+add 21600000
+list size = 842
+list size = 842, n = 23
+add 36000000
+list size = 843
+list size = 843, n = 23
+add 60000000
+list size = 844
+list size = 844, n = 23
+add 100000000
+list size = 845
+list size = 845, n = 23
+add 2519424
+list size = 846
+list size = 846, n = 23
+add 4199040
+list size = 847
+list size = 847, n = 23
+add 6998400
+list size = 848
+list size = 848, n = 23
+add 11664000
+list size = 849
+list size = 849, n = 23
+add 19440000
+list size = 850
+list size = 850, n = 23
+add 32400000
+list size = 851
+list size = 851, n = 23
+add 54000000
+list size = 852
+list size = 852, n = 23
+add 90000000
+list size = 853
+list size = 853, n = 23
+add 150000000
+list size = 854
+list size = 854, n = 23
+add 250000000
+list size = 855
+list size = 855, n = 23
+add 3779136
+list size = 856
+list size = 856, n = 23
+add 6298560
+list size = 857
+list size = 857, n = 23
+add 10497600
+list size = 858
+list size = 858, n = 23
+add 17496000
+list size = 859
+list size = 859, n = 23
+add 29160000
+list size = 860
+list size = 860, n = 23
+add 48600000
+list size = 861
+list size = 861, n = 23
+add 81000000
+list size = 862
+list size = 862, n = 23
+add 135000000
+list size = 863
+list size = 863, n = 23
+add 225000000
+list size = 864
+list size = 864, n = 23
+add 375000000
+list size = 865
+list size = 865, n = 23
+add 625000000
+list size = 866
+list size = 866, n = 23
+add 5668704
+list size = 867
+list size = 867, n = 23
+add 9447840
+list size = 868
+list size = 868, n = 23
+add 15746400
+list size = 869
+list size = 869, n = 23
+add 26244000
+list size = 870
+list size = 870, n = 23
+add 43740000
+list size = 871
+list size = 871, n = 23
+add 72900000
+list size = 872
+list size = 872, n = 23
+add 121500000
+list size = 873
+list size = 873, n = 23
+add 202500000
+list size = 874
+list size = 874, n = 23
+add 337500000
+list size = 875
+list size = 875, n = 23
+add 562500000
+list size = 876
+list size = 876, n = 23
+add 937500000
+list size = 877
+list size = 877, n = 23
+add 1562500000
+list size = 878
+list size = 878, n = 23
+add 8503056
+list size = 879
+list size = 879, n = 23
+add 14171760
+list size = 880
+list size = 880, n = 23
+add 23619600
+list size = 881
+list size = 881, n = 23
+add 39366000
+list size = 882
+list size = 882, n = 23
+add 65610000
+list size = 883
+list size = 883, n = 23
+add 109350000
+list size = 884
+list size = 884, n = 23
+add 182250000
+list size = 885
+list size = 885, n = 23
+add 303750000
+list size = 886
+list size = 886, n = 23
+add 506250000
+list size = 887
+list size = 887, n = 23
+add 843750000
+list size = 888
+list size = 888, n = 23
+add 1406250000
+list size = 889
+list size = 889, n = 23
+add 12754584
+list size = 890
+list size = 890, n = 23
+add 21257640
+list size = 891
+list size = 891, n = 23
+add 35429400
+list size = 892
+list size = 892, n = 23
+add 59049000
+list size = 893
+list size = 893, n = 23
+add 98415000
+list size = 894
+list size = 894, n = 23
+add 164025000
+list size = 895
+list size = 895, n = 23
+add 273375000
+list size = 896
+list size = 896, n = 23
+add 455625000
+list size = 897
+list size = 897, n = 23
+add 759375000
+list size = 898
+list size = 898, n = 23
+add 1265625000
+list size = 899
+list size = 899, n = 23
+add 2109375000
+list size = 900
+list size = 900, n = 23
+add 19131876
+list size = 901
+list size = 901, n = 23
+add 31886460
+list size = 902
+list size = 902, n = 23
+add 53144100
+list size = 903
+list size = 903, n = 23
+add 88573500
+list size = 904
+list size = 904, n = 23
+add 147622500
+list size = 905
+list size = 905, n = 23
+add 246037500
+list size = 906
+list size = 906, n = 23
+add 410062500
+list size = 907
+list size = 907, n = 23
+add 683437500
+list size = 908
+list size = 908, n = 23
+add 1139062500
+list size = 909
+list size = 909, n = 23
+add 1898437500
+list size = 910
+list size = 910, n = 23
+add 28697814
+list size = 911
+list size = 911, n = 23
+add 47829690
+list size = 912
+list size = 912, n = 23
+add 79716150
+list size = 913
+list size = 913, n = 23
+add 132860250
+list size = 914
+list size = 914, n = 23
+add 221433750
+list size = 915
+list size = 915, n = 23
+add 369056250
+list size = 916
+list size = 916, n = 23
+add 615093750
+list size = 917
+list size = 917, n = 23
+add 1025156250
+list size = 918
+list size = 918, n = 23
+add 1708593750
+list size = 919
+list size = 919, n = 23
+add 43046721
+list size = 920
+list size = 920, n = 23
+add 71744535
+list size = 921
+list size = 921, n = 23
+add 119574225
+list size = 922
+list size = 922, n = 23
+add 199290375
+list size = 923
+list size = 923, n = 23
+add 332150625
+list size = 924
+list size = 924, n = 23
+add 553584375
+list size = 925
+list size = 925, n = 23
+add 922640625
+list size = 926
+list size = 926, n = 23
+add 1537734375
+list size = 927
+list size = 927, n = 23
+add 131072
+list size = 928
+list size = 928, n = 23
+add 196608
+list size = 929
+list size = 929, n = 23
+add 327680
+list size = 930
+list size = 930, n = 23
+add 294912
+list size = 931
+list size = 931, n = 23
+add 491520
+list size = 932
+list size = 932, n = 23
+add 819200
+list size = 933
+list size = 933, n = 23
+add 442368
+list size = 934
+list size = 934, n = 23
+add 737280
+list size = 935
+list size = 935, n = 23
+add 1228800
+list size = 936
+list size = 936, n = 23
+add 2048000
+list size = 937
+list size = 937, n = 23
+add 663552
+list size = 938
+list size = 938, n = 23
+add 1105920
+list size = 939
+list size = 939, n = 23
+add 1843200
+list size = 940
+list size = 940, n = 23
+add 3072000
+list size = 941
+list size = 941, n = 23
+add 5120000
+list size = 942
+list size = 942, n = 23
+add 995328
+list size = 943
+list size = 943, n = 23
+add 1658880
+list size = 944
+list size = 944, n = 23
+add 2764800
+list size = 945
+list size = 945, n = 23
+add 4608000
+list size = 946
+list size = 946, n = 23
+add 7680000
+list size = 947
+list size = 947, n = 23
+add 12800000
+list size = 948
+list size = 948, n = 23
+add 1492992
+list size = 949
+list size = 949, n = 23
+add 2488320
+list size = 950
+list size = 950, n = 23
+add 4147200
+list size = 951
+list size = 951, n = 23
+add 6912000
+list size = 952
+list size = 952, n = 23
+add 11520000
+list size = 953
+list size = 953, n = 23
+add 19200000
+list size = 954
+list size = 954, n = 23
+add 32000000
+list size = 955
+list size = 955, n = 23
+add 2239488
+list size = 956
+list size = 956, n = 23
+add 3732480
+list size = 957
+list size = 957, n = 23
+add 6220800
+list size = 958
+list size = 958, n = 23
+add 10368000
+list size = 959
+list size = 959, n = 23
+add 17280000
+list size = 960
+list size = 960, n = 23
+add 28800000
+list size = 961
+list size = 961, n = 23
+add 48000000
+list size = 962
+list size = 962, n = 23
+add 80000000
+list size = 963
+list size = 963, n = 23
+add 3359232
+list size = 964
+list size = 964, n = 23
+add 5598720
+list size = 965
+list size = 965, n = 23
+add 9331200
+list size = 966
+list size = 966, n = 23
+add 15552000
+list size = 967
+list size = 967, n = 23
+add 25920000
+list size = 968
+list size = 968, n = 23
+add 43200000
+list size = 969
+list size = 969, n = 23
+add 72000000
+list size = 970
+list size = 970, n = 23
+add 120000000
+list size = 971
+list size = 971, n = 23
+add 200000000
+list size = 972
+list size = 972, n = 23
+add 5038848
+list size = 973
+list size = 973, n = 23
+add 8398080
+list size = 974
+list size = 974, n = 23
+add 13996800
+list size = 975
+list size = 975, n = 23
+add 23328000
+list size = 976
+list size = 976, n = 23
+add 38880000
+list size = 977
+list size = 977, n = 23
+add 64800000
+list size = 978
+list size = 978, n = 23
+add 108000000
+list size = 979
+list size = 979, n = 23
+add 180000000
+list size = 980
+list size = 980, n = 23
+add 300000000
+list size = 981
+list size = 981, n = 23
+add 500000000
+list size = 982
+list size = 982, n = 23
+add 7558272
+list size = 983
+list size = 983, n = 23
+add 12597120
+list size = 984
+list size = 984, n = 23
+add 20995200
+list size = 985
+list size = 985, n = 23
+add 34992000
+list size = 986
+list size = 986, n = 23
+add 58320000
+list size = 987
+list size = 987, n = 23
+add 97200000
+list size = 988
+list size = 988, n = 23
+add 162000000
+list size = 989
+list size = 989, n = 23
+add 270000000
+list size = 990
+list size = 990, n = 23
+add 450000000
+list size = 991
+list size = 991, n = 23
+add 750000000
+list size = 992
+list size = 992, n = 23
+add 1250000000
+list size = 993
+list size = 993, n = 23
+add 11337408
+list size = 994
+list size = 994, n = 23
+add 18895680
+list size = 995
+list size = 995, n = 23
+add 31492800
+list size = 996
+list size = 996, n = 23
+add 52488000
+list size = 997
+list size = 997, n = 23
+add 87480000
+list size = 998
+list size = 998, n = 23
+add 145800000
+list size = 999
+list size = 999, n = 23
+add 243000000
+list size = 1000
+list size = 1000, n = 23
+add 405000000
+list size = 1001
+list size = 1001, n = 23
+add 675000000
+list size = 1002
+list size = 1002, n = 23
+add 1125000000
+list size = 1003
+list size = 1003, n = 23
+add 1875000000
+list size = 1004
+list size = 1004, n = 23
+add 17006112
+list size = 1005
+list size = 1005, n = 23
+add 28343520
+list size = 1006
+list size = 1006, n = 23
+add 47239200
+list size = 1007
+list size = 1007, n = 23
+add 78732000
+list size = 1008
+list size = 1008, n = 23
+add 131220000
+list size = 1009
+list size = 1009, n = 23
+add 218700000
+list size = 1010
+list size = 1010, n = 23
+add 364500000
+list size = 1011
+list size = 1011, n = 23
+add 607500000
+list size = 1012
+list size = 1012, n = 23
+add 1012500000
+list size = 1013
+list size = 1013, n = 23
+add 1687500000
+list size = 1014
+list size = 1014, n = 23
+add 25509168
+list size = 1015
+list size = 1015, n = 23
+add 42515280
+list size = 1016
+list size = 1016, n = 23
+add 70858800
+list size = 1017
+list size = 1017, n = 23
+add 118098000
+list size = 1018
+list size = 1018, n = 23
+add 196830000
+list size = 1019
+list size = 1019, n = 23
+add 328050000
+list size = 1020
+list size = 1020, n = 23
+add 546750000
+list size = 1021
+list size = 1021, n = 23
+add 911250000
+list size = 1022
+list size = 1022, n = 23
+add 1518750000
+list size = 1023
+list size = 1023, n = 23
+add 38263752
+list size = 1024
+list size = 1024, n = 23
+add 63772920
+list size = 1025
+list size = 1025, n = 23
+add 106288200
+list size = 1026
+list size = 1026, n = 23
+add 177147000
+list size = 1027
+list size = 1027, n = 23
+add 295245000
+list size = 1028
+list size = 1028, n = 23
+add 492075000
+list size = 1029
+list size = 1029, n = 23
+add 820125000
+list size = 1030
+list size = 1030, n = 23
+add 1366875000
+list size = 1031
+list size = 1031, n = 23
+add 57395628
+list size = 1032
+list size = 1032, n = 23
+add 95659380
+list size = 1033
+list size = 1033, n = 23
+add 159432300
+list size = 1034
+list size = 1034, n = 23
+add 265720500
+list size = 1035
+list size = 1035, n = 23
+add 442867500
+list size = 1036
+list size = 1036, n = 23
+add 738112500
+list size = 1037
+list size = 1037, n = 23
+add 1230187500
+list size = 1038
+list size = 1038, n = 23
+add 2050312500
+list size = 1039
+list size = 1039, n = 23
+add 86093442
+list size = 1040
+list size = 1040, n = 23
+add 143489070
+list size = 1041
+list size = 1041, n = 23
+add 239148450
+list size = 1042
+list size = 1042, n = 23
+add 398580750
+list size = 1043
+list size = 1043, n = 23
+add 664301250
+list size = 1044
+list size = 1044, n = 23
+add 1107168750
+list size = 1045
+list size = 1045, n = 23
+add 1845281250
+list size = 1046
+list size = 1046, n = 23
+add 129140163
+list size = 1047
+list size = 1047, n = 23
+add 215233605
+list size = 1048
+list size = 1048, n = 23
+add 358722675
+list size = 1049
+list size = 1049, n = 23
+add 597871125
+list size = 1050
+list size = 1050, n = 23
+add 996451875
+list size = 1051
+list size = 1051, n = 23
+add 1660753125
+list size = 1052
+list size = 1052, n = 23
+add 262144
+list size = 1053
+list size = 1053, n = 23
+add 393216
+list size = 1054
+list size = 1054, n = 23
+add 655360
+list size = 1055
+list size = 1055, n = 23
+add 589824
+list size = 1056
+list size = 1056, n = 23
+add 983040
+list size = 1057
+list size = 1057, n = 23
+add 1638400
+list size = 1058
+list size = 1058, n = 23
+add 884736
+list size = 1059
+list size = 1059, n = 23
+add 1474560
+list size = 1060
+list size = 1060, n = 23
+add 2457600
+list size = 1061
+list size = 1061, n = 23
+add 4096000
+list size = 1062
+list size = 1062, n = 23
+add 1327104
+list size = 1063
+list size = 1063, n = 23
+add 2211840
+list size = 1064
+list size = 1064, n = 23
+add 3686400
+list size = 1065
+list size = 1065, n = 23
+add 6144000
+list size = 1066
+list size = 1066, n = 23
+add 10240000
+list size = 1067
+list size = 1067, n = 23
+add 1990656
+list size = 1068
+list size = 1068, n = 23
+add 3317760
+list size = 1069
+list size = 1069, n = 23
+add 5529600
+list size = 1070
+list size = 1070, n = 23
+add 9216000
+list size = 1071
+list size = 1071, n = 23
+add 15360000
+list size = 1072
+list size = 1072, n = 23
+add 25600000
+list size = 1073
+list size = 1073, n = 23
+add 2985984
+list size = 1074
+list size = 1074, n = 23
+add 4976640
+list size = 1075
+list size = 1075, n = 23
+add 8294400
+list size = 1076
+list size = 1076, n = 23
+add 13824000
+list size = 1077
+list size = 1077, n = 23
+add 23040000
+list size = 1078
+list size = 1078, n = 23
+add 38400000
+list size = 1079
+list size = 1079, n = 23
+add 64000000
+list size = 1080
+list size = 1080, n = 23
+add 4478976
+list size = 1081
+list size = 1081, n = 23
+add 7464960
+list size = 1082
+list size = 1082, n = 23
+add 12441600
+list size = 1083
+list size = 1083, n = 23
+add 20736000
+list size = 1084
+list size = 1084, n = 23
+add 34560000
+list size = 1085
+list size = 1085, n = 23
+add 57600000
+list size = 1086
+list size = 1086, n = 23
+add 96000000
+list size = 1087
+list size = 1087, n = 23
+add 160000000
+list size = 1088
+list size = 1088, n = 23
+add 6718464
+list size = 1089
+list size = 1089, n = 23
+add 11197440
+list size = 1090
+list size = 1090, n = 23
+add 18662400
+list size = 1091
+list size = 1091, n = 23
+add 31104000
+list size = 1092
+list size = 1092, n = 23
+add 51840000
+list size = 1093
+list size = 1093, n = 23
+add 86400000
+list size = 1094
+list size = 1094, n = 23
+add 144000000
+list size = 1095
+list size = 1095, n = 23
+add 240000000
+list size = 1096
+list size = 1096, n = 23
+add 400000000
+list size = 1097
+list size = 1097, n = 23
+add 10077696
+list size = 1098
+list size = 1098, n = 23
+add 16796160
+list size = 1099
+list size = 1099, n = 23
+add 27993600
+list size = 1100
+list size = 1100, n = 23
+add 46656000
+list size = 1101
+list size = 1101, n = 23
+add 77760000
+list size = 1102
+list size = 1102, n = 23
+add 129600000
+list size = 1103
+list size = 1103, n = 23
+add 216000000
+list size = 1104
+list size = 1104, n = 23
+add 360000000
+list size = 1105
+list size = 1105, n = 23
+add 600000000
+list size = 1106
+list size = 1106, n = 23
+add 1000000000
+list size = 1107
+list size = 1107, n = 23
+add 15116544
+list size = 1108
+list size = 1108, n = 23
+add 25194240
+list size = 1109
+list size = 1109, n = 23
+add 41990400
+list size = 1110
+list size = 1110, n = 23
+add 69984000
+list size = 1111
+list size = 1111, n = 23
+add 116640000
+list size = 1112
+list size = 1112, n = 23
+add 194400000
+list size = 1113
+list size = 1113, n = 23
+add 324000000
+list size = 1114
+list size = 1114, n = 23
+add 540000000
+list size = 1115
+list size = 1115, n = 23
+add 900000000
+list size = 1116
+list size = 1116, n = 23
+add 1500000000
+list size = 1117
+list size = 1117, n = 23
+add 22674816
+list size = 1118
+list size = 1118, n = 23
+add 37791360
+list size = 1119
+list size = 1119, n = 23
+add 62985600
+list size = 1120
+list size = 1120, n = 23
+add 104976000
+list size = 1121
+list size = 1121, n = 23
+add 174960000
+list size = 1122
+list size = 1122, n = 23
+add 291600000
+list size = 1123
+list size = 1123, n = 23
+add 486000000
+list size = 1124
+list size = 1124, n = 23
+add 810000000
+list size = 1125
+list size = 1125, n = 23
+add 1350000000
+list size = 1126
+list size = 1126, n = 23
+add 34012224
+list size = 1127
+list size = 1127, n = 23
+add 56687040
+list size = 1128
+list size = 1128, n = 23
+add 94478400
+list size = 1129
+list size = 1129, n = 23
+add 157464000
+list size = 1130
+list size = 1130, n = 23
+add 262440000
+list size = 1131
+list size = 1131, n = 23
+add 437400000
+list size = 1132
+list size = 1132, n = 23
+add 729000000
+list size = 1133
+list size = 1133, n = 23
+add 1215000000
+list size = 1134
+list size = 1134, n = 23
+add 2025000000
+list size = 1135
+list size = 1135, n = 23
+add 51018336
+list size = 1136
+list size = 1136, n = 23
+add 85030560
+list size = 1137
+list size = 1137, n = 23
+add 141717600
+list size = 1138
+list size = 1138, n = 23
+add 236196000
+list size = 1139
+list size = 1139, n = 23
+add 393660000
+list size = 1140
+list size = 1140, n = 23
+add 656100000
+list size = 1141
+list size = 1141, n = 23
+add 1093500000
+list size = 1142
+list size = 1142, n = 23
+add 1822500000
+list size = 1143
+list size = 1143, n = 23
+add 76527504
+list size = 1144
+list size = 1144, n = 23
+add 127545840
+list size = 1145
+list size = 1145, n = 23
+add 212576400
+list size = 1146
+list size = 1146, n = 23
+add 354294000
+list size = 1147
+list size = 1147, n = 23
+add 590490000
+list size = 1148
+list size = 1148, n = 23
+add 984150000
+list size = 1149
+list size = 1149, n = 23
+add 1640250000
+list size = 1150
+list size = 1150, n = 23
+add 114791256
+list size = 1151
+list size = 1151, n = 23
+add 191318760
+list size = 1152
+list size = 1152, n = 23
+add 318864600
+list size = 1153
+list size = 1153, n = 23
+add 531441000
+list size = 1154
+list size = 1154, n = 23
+add 885735000
+list size = 1155
+list size = 1155, n = 23
+add 1476225000
+list size = 1156
+list size = 1156, n = 23
+add 172186884
+list size = 1157
+list size = 1157, n = 23
+add 286978140
+list size = 1158
+list size = 1158, n = 23
+add 478296900
+list size = 1159
+list size = 1159, n = 23
+add 797161500
+list size = 1160
+list size = 1160, n = 23
+add 1328602500
+list size = 1161
+list size = 1161, n = 23
+add 258280326
+list size = 1162
+list size = 1162, n = 23
+add 430467210
+list size = 1163
+list size = 1163, n = 23
+add 717445350
+list size = 1164
+list size = 1164, n = 23
+add 1195742250
+list size = 1165
+list size = 1165, n = 23
+add 1992903750
+list size = 1166
+list size = 1166, n = 23
+add 387420489
+list size = 1167
+list size = 1167, n = 23
+add 645700815
+list size = 1168
+list size = 1168, n = 23
+add 1076168025
+list size = 1169
+list size = 1169, n = 23
+add 1793613375
+list size = 1170
+list size = 1170, n = 23
+add 524288
+list size = 1171
+list size = 1171, n = 23
+add 786432
+list size = 1172
+list size = 1172, n = 23
+add 1310720
+list size = 1173
+list size = 1173, n = 23
+add 1179648
+list size = 1174
+list size = 1174, n = 23
+add 1966080
+list size = 1175
+list size = 1175, n = 23
+add 3276800
+list size = 1176
+list size = 1176, n = 23
+add 1769472
+list size = 1177
+list size = 1177, n = 23
+add 2949120
+list size = 1178
+list size = 1178, n = 23
+add 4915200
+list size = 1179
+list size = 1179, n = 23
+add 8192000
+list size = 1180
+list size = 1180, n = 23
+add 2654208
+list size = 1181
+list size = 1181, n = 23
+add 4423680
+list size = 1182
+list size = 1182, n = 23
+add 7372800
+list size = 1183
+list size = 1183, n = 23
+add 12288000
+list size = 1184
+list size = 1184, n = 23
+add 20480000
+list size = 1185
+list size = 1185, n = 23
+add 3981312
+list size = 1186
+list size = 1186, n = 23
+add 6635520
+list size = 1187
+list size = 1187, n = 23
+add 11059200
+list size = 1188
+list size = 1188, n = 23
+add 18432000
+list size = 1189
+list size = 1189, n = 23
+add 30720000
+list size = 1190
+list size = 1190, n = 23
+add 51200000
+list size = 1191
+list size = 1191, n = 23
+add 5971968
+list size = 1192
+list size = 1192, n = 23
+add 9953280
+list size = 1193
+list size = 1193, n = 23
+add 16588800
+list size = 1194
+list size = 1194, n = 23
+add 27648000
+list size = 1195
+list size = 1195, n = 23
+add 46080000
+list size = 1196
+list size = 1196, n = 23
+add 76800000
+list size = 1197
+list size = 1197, n = 23
+add 128000000
+list size = 1198
+list size = 1198, n = 23
+add 8957952
+list size = 1199
+list size = 1199, n = 23
+add 14929920
+list size = 1200
+list size = 1200, n = 23
+add 24883200
+list size = 1201
+list size = 1201, n = 23
+add 41472000
+list size = 1202
+list size = 1202, n = 23
+add 69120000
+list size = 1203
+list size = 1203, n = 23
+add 115200000
+list size = 1204
+list size = 1204, n = 23
+add 192000000
+list size = 1205
+list size = 1205, n = 23
+add 320000000
+list size = 1206
+list size = 1206, n = 23
+add 13436928
+list size = 1207
+list size = 1207, n = 23
+add 22394880
+list size = 1208
+list size = 1208, n = 23
+add 37324800
+list size = 1209
+list size = 1209, n = 23
+add 62208000
+list size = 1210
+list size = 1210, n = 23
+add 103680000
+list size = 1211
+list size = 1211, n = 23
+add 172800000
+list size = 1212
+list size = 1212, n = 23
+add 288000000
+list size = 1213
+list size = 1213, n = 23
+add 480000000
+list size = 1214
+list size = 1214, n = 23
+add 800000000
+list size = 1215
+list size = 1215, n = 23
+add 20155392
+list size = 1216
+list size = 1216, n = 23
+add 33592320
+list size = 1217
+list size = 1217, n = 23
+add 55987200
+list size = 1218
+list size = 1218, n = 23
+add 93312000
+list size = 1219
+list size = 1219, n = 23
+add 155520000
+list size = 1220
+list size = 1220, n = 23
+add 259200000
+list size = 1221
+list size = 1221, n = 23
+add 432000000
+list size = 1222
+list size = 1222, n = 23
+add 720000000
+list size = 1223
+list size = 1223, n = 23
+add 1200000000
+list size = 1224
+list size = 1224, n = 23
+add 2000000000
+list size = 1225
+list size = 1225, n = 23
+add 30233088
+list size = 1226
+list size = 1226, n = 23
+add 50388480
+list size = 1227
+list size = 1227, n = 23
+add 83980800
+list size = 1228
+list size = 1228, n = 23
+add 139968000
+list size = 1229
+list size = 1229, n = 23
+add 233280000
+list size = 1230
+list size = 1230, n = 23
+add 388800000
+list size = 1231
+list size = 1231, n = 23
+add 648000000
+list size = 1232
+list size = 1232, n = 23
+add 1080000000
+list size = 1233
+list size = 1233, n = 23
+add 1800000000
+list size = 1234
+list size = 1234, n = 23
+add 45349632
+list size = 1235
+list size = 1235, n = 23
+add 75582720
+list size = 1236
+list size = 1236, n = 23
+add 125971200
+list size = 1237
+list size = 1237, n = 23
+add 209952000
+list size = 1238
+list size = 1238, n = 23
+add 349920000
+list size = 1239
+list size = 1239, n = 23
+add 583200000
+list size = 1240
+list size = 1240, n = 23
+add 972000000
+list size = 1241
+list size = 1241, n = 23
+add 1620000000
+list size = 1242
+list size = 1242, n = 23
+add 68024448
+list size = 1243
+list size = 1243, n = 23
+add 113374080
+list size = 1244
+list size = 1244, n = 23
+add 188956800
+list size = 1245
+list size = 1245, n = 23
+add 314928000
+list size = 1246
+list size = 1246, n = 23
+add 524880000
+list size = 1247
+list size = 1247, n = 23
+add 874800000
+list size = 1248
+list size = 1248, n = 23
+add 1458000000
+list size = 1249
+list size = 1249, n = 23
+add 102036672
+list size = 1250
+list size = 1250, n = 23
+add 170061120
+list size = 1251
+list size = 1251, n = 23
+add 283435200
+list size = 1252
+list size = 1252, n = 23
+add 472392000
+list size = 1253
+list size = 1253, n = 23
+add 787320000
+list size = 1254
+list size = 1254, n = 23
+add 1312200000
+list size = 1255
+list size = 1255, n = 23
+add 153055008
+list size = 1256
+list size = 1256, n = 23
+add 255091680
+list size = 1257
+list size = 1257, n = 23
+add 425152800
+list size = 1258
+list size = 1258, n = 23
+add 708588000
+list size = 1259
+list size = 1259, n = 23
+add 1180980000
+list size = 1260
+list size = 1260, n = 23
+add 1968300000
+list size = 1261
+list size = 1261, n = 23
+add 229582512
+list size = 1262
+list size = 1262, n = 23
+add 382637520
+list size = 1263
+list size = 1263, n = 23
+add 637729200
+list size = 1264
+list size = 1264, n = 23
+add 1062882000
+list size = 1265
+list size = 1265, n = 23
+add 1771470000
+list size = 1266
+list size = 1266, n = 23
+add 344373768
+list size = 1267
+list size = 1267, n = 23
+add 573956280
+list size = 1268
+list size = 1268, n = 23
+add 956593800
+list size = 1269
+list size = 1269, n = 23
+add 1594323000
+list size = 1270
+list size = 1270, n = 23
+add 516560652
+list size = 1271
+list size = 1271, n = 23
+add 860934420
+list size = 1272
+list size = 1272, n = 23
+add 1434890700
+list size = 1273
+list size = 1273, n = 23
+add 774840978
+list size = 1274
+list size = 1274, n = 23
+add 1291401630
+list size = 1275
+list size = 1275, n = 23
+add 1162261467
+list size = 1276
+list size = 1276, n = 23
+add 1937102445
+list size = 1277
+list size = 1277, n = 23
+add 1048576
+list size = 1278
+list size = 1278, n = 23
+add 1572864
+list size = 1279
+list size = 1279, n = 23
+add 2621440
+list size = 1280
+list size = 1280, n = 23
+add 2359296
+list size = 1281
+list size = 1281, n = 23
+add 3932160
+list size = 1282
+list size = 1282, n = 23
+add 6553600
+list size = 1283
+list size = 1283, n = 23
+add 3538944
+list size = 1284
+list size = 1284, n = 23
+add 5898240
+list size = 1285
+list size = 1285, n = 23
+add 9830400
+list size = 1286
+list size = 1286, n = 23
+add 16384000
+list size = 1287
+list size = 1287, n = 23
+add 5308416
+list size = 1288
+list size = 1288, n = 23
+add 8847360
+list size = 1289
+list size = 1289, n = 23
+add 14745600
+list size = 1290
+list size = 1290, n = 23
+add 24576000
+list size = 1291
+list size = 1291, n = 23
+add 40960000
+list size = 1292
+list size = 1292, n = 23
+add 7962624
+list size = 1293
+list size = 1293, n = 23
+add 13271040
+list size = 1294
+list size = 1294, n = 23
+add 22118400
+list size = 1295
+list size = 1295, n = 23
+add 36864000
+list size = 1296
+list size = 1296, n = 23
+add 61440000
+list size = 1297
+list size = 1297, n = 23
+add 102400000
+list size = 1298
+list size = 1298, n = 23
+add 11943936
+list size = 1299
+list size = 1299, n = 23
+add 19906560
+list size = 1300
+list size = 1300, n = 23
+add 33177600
+list size = 1301
+list size = 1301, n = 23
+add 55296000
+list size = 1302
+list size = 1302, n = 23
+add 92160000
+list size = 1303
+list size = 1303, n = 23
+add 153600000
+list size = 1304
+list size = 1304, n = 23
+add 256000000
+list size = 1305
+list size = 1305, n = 23
+add 17915904
+list size = 1306
+list size = 1306, n = 23
+add 29859840
+list size = 1307
+list size = 1307, n = 23
+add 49766400
+list size = 1308
+list size = 1308, n = 23
+add 82944000
+list size = 1309
+list size = 1309, n = 23
+add 138240000
+list size = 1310
+list size = 1310, n = 23
+add 230400000
+list size = 1311
+list size = 1311, n = 23
+add 384000000
+list size = 1312
+list size = 1312, n = 23
+add 640000000
+list size = 1313
+list size = 1313, n = 23
+add 26873856
+list size = 1314
+list size = 1314, n = 23
+add 44789760
+list size = 1315
+list size = 1315, n = 23
+add 74649600
+list size = 1316
+list size = 1316, n = 23
+add 124416000
+list size = 1317
+list size = 1317, n = 23
+add 207360000
+list size = 1318
+list size = 1318, n = 23
+add 345600000
+list size = 1319
+list size = 1319, n = 23
+add 576000000
+list size = 1320
+list size = 1320, n = 23
+add 960000000
+list size = 1321
+list size = 1321, n = 23
+add 1600000000
+list size = 1322
+list size = 1322, n = 23
+add 40310784
+list size = 1323
+list size = 1323, n = 23
+add 67184640
+list size = 1324
+list size = 1324, n = 23
+add 111974400
+list size = 1325
+list size = 1325, n = 23
+add 186624000
+list size = 1326
+list size = 1326, n = 23
+add 311040000
+list size = 1327
+list size = 1327, n = 23
+add 518400000
+list size = 1328
+list size = 1328, n = 23
+add 864000000
+list size = 1329
+list size = 1329, n = 23
+add 1440000000
+list size = 1330
+list size = 1330, n = 23
+add 60466176
+list size = 1331
+list size = 1331, n = 23
+add 100776960
+list size = 1332
+list size = 1332, n = 23
+add 167961600
+list size = 1333
+list size = 1333, n = 23
+add 279936000
+list size = 1334
+list size = 1334, n = 23
+add 466560000
+list size = 1335
+list size = 1335, n = 23
+add 777600000
+list size = 1336
+list size = 1336, n = 23
+add 1296000000
+list size = 1337
+list size = 1337, n = 23
+add 90699264
+list size = 1338
+list size = 1338, n = 23
+add 151165440
+list size = 1339
+list size = 1339, n = 23
+add 251942400
+list size = 1340
+list size = 1340, n = 23
+add 419904000
+list size = 1341
+list size = 1341, n = 23
+add 699840000
+list size = 1342
+list size = 1342, n = 23
+add 1166400000
+list size = 1343
+list size = 1343, n = 23
+add 1944000000
+list size = 1344
+list size = 1344, n = 23
+add 136048896
+list size = 1345
+list size = 1345, n = 23
+add 226748160
+list size = 1346
+list size = 1346, n = 23
+add 377913600
+list size = 1347
+list size = 1347, n = 23
+add 629856000
+list size = 1348
+list size = 1348, n = 23
+add 1049760000
+list size = 1349
+list size = 1349, n = 23
+add 1749600000
+list size = 1350
+list size = 1350, n = 23
+add 204073344
+list size = 1351
+list size = 1351, n = 23
+add 340122240
+list size = 1352
+list size = 1352, n = 23
+add 566870400
+list size = 1353
+list size = 1353, n = 23
+add 944784000
+list size = 1354
+list size = 1354, n = 23
+add 1574640000
+list size = 1355
+list size = 1355, n = 23
+add 306110016
+list size = 1356
+list size = 1356, n = 23
+add 510183360
+list size = 1357
+list size = 1357, n = 23
+add 850305600
+list size = 1358
+list size = 1358, n = 23
+add 1417176000
+list size = 1359
+list size = 1359, n = 23
+add 459165024
+list size = 1360
+list size = 1360, n = 23
+add 765275040
+list size = 1361
+list size = 1361, n = 23
+add 1275458400
+list size = 1362
+list size = 1362, n = 23
+add 2125764000
+list size = 1363
+list size = 1363, n = 23
+add 688747536
+list size = 1364
+list size = 1364, n = 23
+add 1147912560
+list size = 1365
+list size = 1365, n = 23
+add 1913187600
+list size = 1366
+list size = 1366, n = 23
+add 1033121304
+list size = 1367
+list size = 1367, n = 23
+add 1721868840
+list size = 1368
+list size = 1368, n = 23
+add 1549681956
+list size = 1369
+list size = 1369, n = 23
+add 2097152
+list size = 1370
+list size = 1370, n = 23
+add 3145728
+list size = 1371
+list size = 1371, n = 23
+add 5242880
+list size = 1372
+list size = 1372, n = 23
+add 4718592
+list size = 1373
+list size = 1373, n = 23
+add 7864320
+list size = 1374
+list size = 1374, n = 23
+add 13107200
+list size = 1375
+list size = 1375, n = 23
+add 7077888
+list size = 1376
+list size = 1376, n = 23
+add 11796480
+list size = 1377
+list size = 1377, n = 23
+add 19660800
+list size = 1378
+list size = 1378, n = 23
+add 32768000
+list size = 1379
+list size = 1379, n = 23
+add 10616832
+list size = 1380
+list size = 1380, n = 23
+add 17694720
+list size = 1381
+list size = 1381, n = 23
+add 29491200
+list size = 1382
+list size = 1382, n = 23
+add 49152000
+list size = 1383
+list size = 1383, n = 23
+add 81920000
+list size = 1384
+list size = 1384, n = 23
+add 15925248
+list size = 1385
+list size = 1385, n = 23
+add 26542080
+list size = 1386
+list size = 1386, n = 23
+add 44236800
+list size = 1387
+list size = 1387, n = 23
+add 73728000
+list size = 1388
+list size = 1388, n = 23
+add 122880000
+list size = 1389
+list size = 1389, n = 23
+add 204800000
+list size = 1390
+list size = 1390, n = 23
+add 23887872
+list size = 1391
+list size = 1391, n = 23
+add 39813120
+list size = 1392
+list size = 1392, n = 23
+add 66355200
+list size = 1393
+list size = 1393, n = 23
+add 110592000
+list size = 1394
+list size = 1394, n = 23
+add 184320000
+list size = 1395
+list size = 1395, n = 23
+add 307200000
+list size = 1396
+list size = 1396, n = 23
+add 512000000
+list size = 1397
+list size = 1397, n = 23
+add 35831808
+list size = 1398
+list size = 1398, n = 23
+add 59719680
+list size = 1399
+list size = 1399, n = 23
+add 99532800
+list size = 1400
+list size = 1400, n = 23
+add 165888000
+list size = 1401
+list size = 1401, n = 23
+add 276480000
+list size = 1402
+list size = 1402, n = 23
+add 460800000
+list size = 1403
+list size = 1403, n = 23
+add 768000000
+list size = 1404
+list size = 1404, n = 23
+add 1280000000
+list size = 1405
+list size = 1405, n = 23
+add 53747712
+list size = 1406
+list size = 1406, n = 23
+add 89579520
+list size = 1407
+list size = 1407, n = 23
+add 149299200
+list size = 1408
+list size = 1408, n = 23
+add 248832000
+list size = 1409
+list size = 1409, n = 23
+add 414720000
+list size = 1410
+list size = 1410, n = 23
+add 691200000
+list size = 1411
+list size = 1411, n = 23
+add 1152000000
+list size = 1412
+list size = 1412, n = 23
+add 1920000000
+list size = 1413
+list size = 1413, n = 23
+add 80621568
+list size = 1414
+list size = 1414, n = 23
+add 134369280
+list size = 1415
+list size = 1415, n = 23
+add 223948800
+list size = 1416
+list size = 1416, n = 23
+add 373248000
+list size = 1417
+list size = 1417, n = 23
+add 622080000
+list size = 1418
+list size = 1418, n = 23
+add 1036800000
+list size = 1419
+list size = 1419, n = 23
+add 1728000000
+list size = 1420
+list size = 1420, n = 23
+add 120932352
+list size = 1421
+list size = 1421, n = 23
+add 201553920
+list size = 1422
+list size = 1422, n = 23
+add 335923200
+list size = 1423
+list size = 1423, n = 23
+add 559872000
+list size = 1424
+list size = 1424, n = 23
+add 933120000
+list size = 1425
+list size = 1425, n = 23
+add 1555200000
+list size = 1426
+list size = 1426, n = 23
+add 181398528
+list size = 1427
+list size = 1427, n = 23
+add 302330880
+list size = 1428
+list size = 1428, n = 23
+add 503884800
+list size = 1429
+list size = 1429, n = 23
+add 839808000
+list size = 1430
+list size = 1430, n = 23
+add 1399680000
+list size = 1431
+list size = 1431, n = 23
+add 272097792
+list size = 1432
+list size = 1432, n = 23
+add 453496320
+list size = 1433
+list size = 1433, n = 23
+add 755827200
+list size = 1434
+list size = 1434, n = 23
+add 1259712000
+list size = 1435
+list size = 1435, n = 23
+add 2099520000
+list size = 1436
+list size = 1436, n = 23
+add 408146688
+list size = 1437
+list size = 1437, n = 23
+add 680244480
+list size = 1438
+list size = 1438, n = 23
+add 1133740800
+list size = 1439
+list size = 1439, n = 23
+add 1889568000
+list size = 1440
+list size = 1440, n = 23
+add 612220032
+list size = 1441
+list size = 1441, n = 23
+add 1020366720
+list size = 1442
+list size = 1442, n = 23
+add 1700611200
+list size = 1443
+list size = 1443, n = 23
+add 918330048
+list size = 1444
+list size = 1444, n = 23
+add 1530550080
+list size = 1445
+list size = 1445, n = 23
+add 1377495072
+list size = 1446
+list size = 1446, n = 23
+add 2066242608
+list size = 1447
+list size = 1447, n = 23
+add 4194304
+list size = 1448
+list size = 1448, n = 23
+add 6291456
+list size = 1449
+list size = 1449, n = 23
+add 10485760
+list size = 1450
+list size = 1450, n = 23
+add 9437184
+list size = 1451
+list size = 1451, n = 23
+add 15728640
+list size = 1452
+list size = 1452, n = 23
+add 26214400
+list size = 1453
+list size = 1453, n = 23
+add 14155776
+list size = 1454
+list size = 1454, n = 23
+add 23592960
+list size = 1455
+list size = 1455, n = 23
+add 39321600
+list size = 1456
+list size = 1456, n = 23
+add 65536000
+list size = 1457
+list size = 1457, n = 23
+add 21233664
+list size = 1458
+list size = 1458, n = 23
+add 35389440
+list size = 1459
+list size = 1459, n = 23
+add 58982400
+list size = 1460
+list size = 1460, n = 23
+add 98304000
+list size = 1461
+list size = 1461, n = 23
+add 163840000
+list size = 1462
+list size = 1462, n = 23
+add 31850496
+list size = 1463
+list size = 1463, n = 23
+add 53084160
+list size = 1464
+list size = 1464, n = 23
+add 88473600
+list size = 1465
+list size = 1465, n = 23
+add 147456000
+list size = 1466
+list size = 1466, n = 23
+add 245760000
+list size = 1467
+list size = 1467, n = 23
+add 409600000
+list size = 1468
+list size = 1468, n = 23
+add 47775744
+list size = 1469
+list size = 1469, n = 23
+add 79626240
+list size = 1470
+list size = 1470, n = 23
+add 132710400
+list size = 1471
+list size = 1471, n = 23
+add 221184000
+list size = 1472
+list size = 1472, n = 23
+add 368640000
+list size = 1473
+list size = 1473, n = 23
+add 614400000
+list size = 1474
+list size = 1474, n = 23
+add 1024000000
+list size = 1475
+list size = 1475, n = 23
+add 71663616
+list size = 1476
+list size = 1476, n = 23
+add 119439360
+list size = 1477
+list size = 1477, n = 23
+add 199065600
+list size = 1478
+list size = 1478, n = 23
+add 331776000
+list size = 1479
+list size = 1479, n = 23
+add 552960000
+list size = 1480
+list size = 1480, n = 23
+add 921600000
+list size = 1481
+list size = 1481, n = 23
+add 1536000000
+list size = 1482
+list size = 1482, n = 23
+add 107495424
+list size = 1483
+list size = 1483, n = 23
+add 179159040
+list size = 1484
+list size = 1484, n = 23
+add 298598400
+list size = 1485
+list size = 1485, n = 23
+add 497664000
+list size = 1486
+list size = 1486, n = 23
+add 829440000
+list size = 1487
+list size = 1487, n = 23
+add 1382400000
+list size = 1488
+list size = 1488, n = 23
+add 161243136
+list size = 1489
+list size = 1489, n = 23
+add 268738560
+list size = 1490
+list size = 1490, n = 23
+add 447897600
+list size = 1491
+list size = 1491, n = 23
+add 746496000
+list size = 1492
+list size = 1492, n = 23
+add 1244160000
+list size = 1493
+list size = 1493, n = 23
+add 2073600000
+list size = 1494
+list size = 1494, n = 23
+add 241864704
+list size = 1495
+list size = 1495, n = 23
+add 403107840
+list size = 1496
+list size = 1496, n = 23
+add 671846400
+list size = 1497
+list size = 1497, n = 23
+add 1119744000
+list size = 1498
+list size = 1498, n = 23
+add 1866240000
+list size = 1499
+list size = 1499, n = 23
+add 362797056
+list size = 1500
+list size = 1500, n = 23
+add 604661760
+list size = 1501
+list size = 1501, n = 23
+add 1007769600
+list size = 1502
+list size = 1502, n = 23
+add 1679616000
+list size = 1503
+list size = 1503, n = 23
+add 544195584
+list size = 1504
+list size = 1504, n = 23
+add 906992640
+list size = 1505
+list size = 1505, n = 23
+add 1511654400
+list size = 1506
+list size = 1506, n = 23
+add 816293376
+list size = 1507
+list size = 1507, n = 23
+add 1360488960
+list size = 1508
+list size = 1508, n = 23
+add 1224440064
+list size = 1509
+list size = 1509, n = 23
+add 2040733440
+list size = 1510
+list size = 1510, n = 23
+add 1836660096
+list size = 1511
+list size = 1511, n = 23
+add 8388608
+list size = 1512
+list size = 1512, n = 23
+add 12582912
+list size = 1513
+list size = 1513, n = 23
+add 20971520
+list size = 1514
+list size = 1514, n = 23
+add 18874368
+list size = 1515
+list size = 1515, n = 23
+add 31457280
+list size = 1516
+list size = 1516, n = 23
+add 52428800
+list size = 1517
+list size = 1517, n = 23
+add 28311552
+list size = 1518
+list size = 1518, n = 23
+add 47185920
+list size = 1519
+list size = 1519, n = 23
+add 78643200
+list size = 1520
+list size = 1520, n = 23
+add 131072000
+list size = 1521
+list size = 1521, n = 23
+add 42467328
+list size = 1522
+list size = 1522, n = 23
+add 70778880
+list size = 1523
+list size = 1523, n = 23
+add 117964800
+list size = 1524
+list size = 1524, n = 23
+add 196608000
+list size = 1525
+list size = 1525, n = 23
+add 327680000
+list size = 1526
+list size = 1526, n = 23
+add 63700992
+list size = 1527
+list size = 1527, n = 23
+add 106168320
+list size = 1528
+list size = 1528, n = 23
+add 176947200
+list size = 1529
+list size = 1529, n = 23
+add 294912000
+list size = 1530
+list size = 1530, n = 23
+add 491520000
+list size = 1531
+list size = 1531, n = 23
+add 819200000
+list size = 1532
+list size = 1532, n = 23
+add 95551488
+list size = 1533
+list size = 1533, n = 23
+add 159252480
+list size = 1534
+list size = 1534, n = 23
+add 265420800
+list size = 1535
+list size = 1535, n = 23
+add 442368000
+list size = 1536
+list size = 1536, n = 23
+add 737280000
+list size = 1537
+list size = 1537, n = 23
+add 1228800000
+list size = 1538
+list size = 1538, n = 23
+add 2048000000
+list size = 1539
+list size = 1539, n = 23
+add 143327232
+list size = 1540
+list size = 1540, n = 23
+add 238878720
+list size = 1541
+list size = 1541, n = 23
+add 398131200
+list size = 1542
+list size = 1542, n = 23
+add 663552000
+list size = 1543
+list size = 1543, n = 23
+add 1105920000
+list size = 1544
+list size = 1544, n = 23
+add 1843200000
+list size = 1545
+list size = 1545, n = 23
+add 214990848
+list size = 1546
+list size = 1546, n = 23
+add 358318080
+list size = 1547
+list size = 1547, n = 23
+add 597196800
+list size = 1548
+list size = 1548, n = 23
+add 995328000
+list size = 1549
+list size = 1549, n = 23
+add 1658880000
+list size = 1550
+list size = 1550, n = 23
+add 322486272
+list size = 1551
+list size = 1551, n = 23
+add 537477120
+list size = 1552
+list size = 1552, n = 23
+add 895795200
+list size = 1553
+list size = 1553, n = 23
+add 1492992000
+list size = 1554
+list size = 1554, n = 23
+add 483729408
+list size = 1555
+list size = 1555, n = 23
+add 806215680
+list size = 1556
+list size = 1556, n = 23
+add 1343692800
+list size = 1557
+list size = 1557, n = 23
+add 725594112
+list size = 1558
+list size = 1558, n = 23
+add 1209323520
+list size = 1559
+list size = 1559, n = 23
+add 2015539200
+list size = 1560
+list size = 1560, n = 23
+add 1088391168
+list size = 1561
+list size = 1561, n = 23
+add 1813985280
+list size = 1562
+list size = 1562, n = 23
+add 1632586752
+list size = 1563
+list size = 1563, n = 23
+add 16777216
+list size = 1564
+list size = 1564, n = 23
+add 25165824
+list size = 1565
+list size = 1565, n = 23
+add 41943040
+list size = 1566
+list size = 1566, n = 23
+add 37748736
+list size = 1567
+list size = 1567, n = 23
+add 62914560
+list size = 1568
+list size = 1568, n = 23
+add 104857600
+list size = 1569
+list size = 1569, n = 23
+add 56623104
+list size = 1570
+list size = 1570, n = 23
+add 94371840
+list size = 1571
+list size = 1571, n = 23
+add 157286400
+list size = 1572
+list size = 1572, n = 23
+add 262144000
+list size = 1573
+list size = 1573, n = 23
+add 84934656
+list size = 1574
+list size = 1574, n = 23
+add 141557760
+list size = 1575
+list size = 1575, n = 23
+add 235929600
+list size = 1576
+list size = 1576, n = 23
+add 393216000
+list size = 1577
+list size = 1577, n = 23
+add 655360000
+list size = 1578
+list size = 1578, n = 23
+add 127401984
+list size = 1579
+list size = 1579, n = 23
+add 212336640
+list size = 1580
+list size = 1580, n = 23
+add 353894400
+list size = 1581
+list size = 1581, n = 23
+add 589824000
+list size = 1582
+list size = 1582, n = 23
+add 983040000
+list size = 1583
+list size = 1583, n = 23
+add 1638400000
+list size = 1584
+list size = 1584, n = 23
+add 191102976
+list size = 1585
+list size = 1585, n = 23
+add 318504960
+list size = 1586
+list size = 1586, n = 23
+add 530841600
+list size = 1587
+list size = 1587, n = 23
+add 884736000
+list size = 1588
+list size = 1588, n = 23
+add 1474560000
+list size = 1589
+list size = 1589, n = 23
+add 286654464
+list size = 1590
+list size = 1590, n = 23
+add 477757440
+list size = 1591
+list size = 1591, n = 23
+add 796262400
+list size = 1592
+list size = 1592, n = 23
+add 1327104000
+list size = 1593
+list size = 1593, n = 23
+add 429981696
+list size = 1594
+list size = 1594, n = 23
+add 716636160
+list size = 1595
+list size = 1595, n = 23
+add 1194393600
+list size = 1596
+list size = 1596, n = 23
+add 1990656000
+list size = 1597
+list size = 1597, n = 23
+add 644972544
+list size = 1598
+list size = 1598, n = 23
+add 1074954240
+list size = 1599
+list size = 1599, n = 23
+add 1791590400
+list size = 1600
+list size = 1600, n = 23
+add 967458816
+list size = 1601
+list size = 1601, n = 23
+add 1612431360
+list size = 1602
+list size = 1602, n = 23
+add 1451188224
+list size = 1603
+list size = 1603, n = 23
+add 33554432
+list size = 1604
+list size = 1604, n = 23
+add 50331648
+list size = 1605
+list size = 1605, n = 23
+add 83886080
+list size = 1606
+list size = 1606, n = 23
+add 75497472
+list size = 1607
+list size = 1607, n = 23
+add 125829120
+list size = 1608
+list size = 1608, n = 23
+add 209715200
+list size = 1609
+list size = 1609, n = 23
+add 113246208
+list size = 1610
+list size = 1610, n = 23
+add 188743680
+list size = 1611
+list size = 1611, n = 23
+add 314572800
+list size = 1612
+list size = 1612, n = 23
+add 524288000
+list size = 1613
+list size = 1613, n = 23
+add 169869312
+list size = 1614
+list size = 1614, n = 23
+add 283115520
+list size = 1615
+list size = 1615, n = 23
+add 471859200
+list size = 1616
+list size = 1616, n = 23
+add 786432000
+list size = 1617
+list size = 1617, n = 23
+add 1310720000
+list size = 1618
+list size = 1618, n = 23
+add 254803968
+list size = 1619
+list size = 1619, n = 23
+add 424673280
+list size = 1620
+list size = 1620, n = 23
+add 707788800
+list size = 1621
+list size = 1621, n = 23
+add 1179648000
+list size = 1622
+list size = 1622, n = 23
+add 1966080000
+list size = 1623
+list size = 1623, n = 23
+add 382205952
+list size = 1624
+list size = 1624, n = 23
+add 637009920
+list size = 1625
+list size = 1625, n = 23
+add 1061683200
+list size = 1626
+list size = 1626, n = 23
+add 1769472000
+list size = 1627
+list size = 1627, n = 23
+add 573308928
+list size = 1628
+list size = 1628, n = 23
+add 955514880
+list size = 1629
+list size = 1629, n = 23
+add 1592524800
+list size = 1630
+list size = 1630, n = 23
+add 859963392
+list size = 1631
+list size = 1631, n = 23
+add 1433272320
+list size = 1632
+list size = 1632, n = 23
+add 1289945088
+list size = 1633
+list size = 1633, n = 23
+add 1934917632
+list size = 1634
+list size = 1634, n = 23
+add 67108864
+list size = 1635
+list size = 1635, n = 23
+add 100663296
+list size = 1636
+list size = 1636, n = 23
+add 167772160
+list size = 1637
+list size = 1637, n = 23
+add 150994944
+list size = 1638
+list size = 1638, n = 23
+add 251658240
+list size = 1639
+list size = 1639, n = 23
+add 419430400
+list size = 1640
+list size = 1640, n = 23
+add 226492416
+list size = 1641
+list size = 1641, n = 23
+add 377487360
+list size = 1642
+list size = 1642, n = 23
+add 629145600
+list size = 1643
+list size = 1643, n = 23
+add 1048576000
+list size = 1644
+list size = 1644, n = 23
+add 339738624
+list size = 1645
+list size = 1645, n = 23
+add 566231040
+list size = 1646
+list size = 1646, n = 23
+add 943718400
+list size = 1647
+list size = 1647, n = 23
+add 1572864000
+list size = 1648
+list size = 1648, n = 23
+add 509607936
+list size = 1649
+list size = 1649, n = 23
+add 849346560
+list size = 1650
+list size = 1650, n = 23
+add 1415577600
+list size = 1651
+list size = 1651, n = 23
+add 764411904
+list size = 1652
+list size = 1652, n = 23
+add 1274019840
+list size = 1653
+list size = 1653, n = 23
+add 2123366400
+list size = 1654
+list size = 1654, n = 23
+add 1146617856
+list size = 1655
+list size = 1655, n = 23
+add 1911029760
+list size = 1656
+list size = 1656, n = 23
+add 1719926784
+list size = 1657
+list size = 1657, n = 23
+add 134217728
+list size = 1658
+list size = 1658, n = 23
+add 201326592
+list size = 1659
+list size = 1659, n = 23
+add 335544320
+list size = 1660
+list size = 1660, n = 23
+add 301989888
+list size = 1661
+list size = 1661, n = 23
+add 503316480
+list size = 1662
+list size = 1662, n = 23
+add 838860800
+list size = 1663
+list size = 1663, n = 23
+add 452984832
+list size = 1664
+list size = 1664, n = 23
+add 754974720
+list size = 1665
+list size = 1665, n = 23
+add 1258291200
+list size = 1666
+list size = 1666, n = 23
+add 2097152000
+list size = 1667
+list size = 1667, n = 23
+add 679477248
+list size = 1668
+list size = 1668, n = 23
+add 1132462080
+list size = 1669
+list size = 1669, n = 23
+add 1887436800
+list size = 1670
+list size = 1670, n = 23
+add 1019215872
+list size = 1671
+list size = 1671, n = 23
+add 1698693120
+list size = 1672
+list size = 1672, n = 23
+add 1528823808
+list size = 1673
+list size = 1673, n = 23
+add 268435456
+list size = 1674
+list size = 1674, n = 23
+add 402653184
+list size = 1675
+list size = 1675, n = 23
+add 671088640
+list size = 1676
+list size = 1676, n = 23
+add 603979776
+list size = 1677
+list size = 1677, n = 23
+add 1006632960
+list size = 1678
+list size = 1678, n = 23
+add 1677721600
+list size = 1679
+list size = 1679, n = 23
+add 905969664
+list size = 1680
+list size = 1680, n = 23
+add 1509949440
+list size = 1681
+list size = 1681, n = 23
+add 1358954496
+list size = 1682
+list size = 1682, n = 23
+add 2038431744
+list size = 1683
+list size = 1683, n = 23
+add 536870912
+list size = 1684
+list size = 1684, n = 23
+add 805306368
+list size = 1685
+list size = 1685, n = 23
+add 1342177280
+list size = 1686
+list size = 1686, n = 23
+add 1207959552
+list size = 1687
+list size = 1687, n = 23
+add 2013265920
+list size = 1688
+list size = 1688, n = 23
+add 1811939328
+list size = 1689
+list size = 1689, n = 23
+add 1073741824
+list size = 1690
+list size = 1690, n = 23
+add 1610612736
+list size = 1691
+list size = 1691, n = 23
+add 2147483647
+list size = 1692
+list size = 1692, n = 23
+23th ugly number = 48

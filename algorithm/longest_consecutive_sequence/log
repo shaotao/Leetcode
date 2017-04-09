@@ -1,0 +1,196 @@
+java LongestConsecutiveSequence
+=== Longest Consecutive Sequence ===
+
+key = -4
+ get 4
+key = -4, list = -4 
+
+key = -1
+ get 4
+key = -4, list = -4 
+key = -1, list = -1 
+
+key = 4
+ get 4
+key = 4, list = 4 
+key = -4, list = -4 
+key = -1, list = -1 
+
+key = -5
+ get 3
+key = 4, list = 4 
+key = -5, list = -4 -5 
+key = -4, list = -4 -5 
+key = -1, list = -1 
+
+key = 1
+ get 4
+key = 1, list = 1 
+key = 4, list = 4 
+key = -5, list = -4 -5 
+key = -4, list = -4 -5 
+key = -1, list = -1 
+
+key = -6
+ get 3
+key = 1, list = 1 
+key = 4, list = 4 
+key = -6, list = -4 -5 -6 
+key = -5, list = -4 -5 -6 
+key = -4, list = -4 -5 -6 
+key = -1, list = -1 
+
+key = 9
+ get 4
+key = 1, list = 1 
+key = 4, list = 4 
+key = 9, list = 9 
+key = -6, list = -4 -5 -6 
+key = -5, list = -4 -5 -6 
+key = -4, list = -4 -5 -6 
+key = -1, list = -1 
+
+key = -6
+ get 1
+
+key = 0
+ get 5
+key = 0, list = -1 0 1 
+key = 1, list = -1 0 1 
+key = 4, list = 4 
+key = 9, list = 9 
+key = -6, list = -4 -5 -6 
+key = -5, list = -4 -5 -6 
+key = -4, list = -4 -5 -6 
+key = -1, list = -1 0 1 
+
+key = 2
+ get 2
+key = 0, list = -1 0 1 2 
+key = 1, list = -1 0 1 2 
+key = 2, list = -1 0 1 2 
+key = 4, list = 4 
+key = 9, list = 9 
+key = -6, list = -4 -5 -6 
+key = -5, list = -4 -5 -6 
+key = -4, list = -4 -5 -6 
+key = -1, list = -1 0 1 2 
+
+key = 2
+ get 1
+
+key = 7
+ get 4
+key = 0, list = -1 0 1 2 
+key = 1, list = -1 0 1 2 
+key = 2, list = -1 0 1 2 
+key = 4, list = 4 
+key = 7, list = 7 
+key = 9, list = 9 
+key = -6, list = -4 -5 -6 
+key = -5, list = -4 -5 -6 
+key = -4, list = -4 -5 -6 
+key = -1, list = -1 0 1 2 
+
+key = 0
+ get 1
+
+key = 9
+ get 1
+
+key = -3
+ get 2
+key = 0, list = -1 0 1 2 
+key = 1, list = -1 0 1 2 
+key = 2, list = -1 0 1 2 
+key = 4, list = 4 
+key = 7, list = 7 
+key = 9, list = 9 
+key = -6, list = -4 -5 -6 -3 
+key = -5, list = -4 -5 -6 -3 
+key = -4, list = -4 -5 -6 -3 
+key = -3, list = -4 -5 -6 -3 
+key = -1, list = -1 0 1 2 
+
+key = 8
+ get 5
+key = 0, list = -1 0 1 2 
+key = 1, list = -1 0 1 2 
+key = 2, list = -1 0 1 2 
+key = 4, list = 4 
+key = 7, list = 7 8 9 
+key = 8, list = 7 8 9 
+key = 9, list = 7 8 9 
+key = -6, list = -4 -5 -6 -3 
+key = -5, list = -4 -5 -6 -3 
+key = -4, list = -4 -5 -6 -3 
+key = -3, list = -4 -5 -6 -3 
+key = -1, list = -1 0 1 2 
+
+key = 9
+ get 1
+
+key = -2
+ get 5
+key = 0, list = -1 0 1 2 
+key = 1, list = -1 0 1 2 
+key = 2, list = -1 0 1 2 
+key = 4, list = 4 
+key = 7, list = 7 8 9 
+key = 8, list = 7 8 9 
+key = 9, list = 7 8 9 
+key = -6, list = -4 -5 -6 -3 -2 -1 0 1 2 
+key = -5, list = -4 -5 -6 -3 -2 -1 0 1 2 
+key = -4, list = -4 -5 -6 -3 -2 -1 0 1 2 
+key = -3, list = -4 -5 -6 -3 -2 -1 0 1 2 
+key = -2, list = -4 -5 -6 -3 -2 -1 0 1 2 
+key = -1, list = -4 -5 -6 -3 -2 -1 0 1 2 
+
+key = -6
+ get 1
+
+key = 5
+ get 2
+key = 0, list = -1 0 1 2 
+key = 1, list = -1 0 1 2 
+key = 2, list = -1 0 1 2 
+key = 4, list = 4 5 
+key = 5, list = 4 5 
+key = 7, list = 7 8 9 
+key = 8, list = 7 8 9 
+key = 9, list = 7 8 9 
+key = -6, list = -4 -5 -6 -3 -2 -1 0 1 2 
+key = -5, list = -4 -5 -6 -3 -2 -1 0 1 2 
+key = -4, list = -4 -5 -6 -3 -2 -1 0 1 2 
+key = -3, list = -4 -5 -6 -3 -2 -1 0 1 2 
+key = -2, list = -4 -5 -6 -3 -2 -1 0 1 2 
+key = -1, list = -4 -5 -6 -3 -2 -1 0 1 2 
+
+key = 0
+ get 1
+
+key = 3
+ get 5
+key = 0, list = -1 0 1 2 3 4 5 
+key = 1, list = -1 0 1 2 3 4 5 
+key = 2, list = -1 0 1 2 3 4 5 
+key = 3, list = -1 0 1 2 3 4 5 
+key = 4, list = -1 0 1 2 3 4 5 
+key = 5, list = 4 5 
+key = 7, list = 7 8 9 
+key = 8, list = 7 8 9 
+key = 9, list = 7 8 9 
+key = -6, list = -4 -5 -6 -3 -2 -1 0 1 2 
+key = -5, list = -4 -5 -6 -3 -2 -1 0 1 2 
+key = -4, list = -4 -5 -6 -3 -2 -1 0 1 2 
+key = -3, list = -4 -5 -6 -3 -2 -1 0 1 2 
+key = -2, list = -4 -5 -6 -3 -2 -1 0 1 2 
+key = -1, list = -4 -5 -6 -3 -2 -1 0 1 2 
+
+key = 4
+ get 1
+
+key = -2
+ get 1
+num: -4 -1 4 -5 1 -6 9 -6 0 2 2 7 0 9 -3 8 9 -2 -6 5 0 3 4 -2 
+result = 9

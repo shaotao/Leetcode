@@ -1,0 +1,313 @@
+Questions List:
+
+
+Completed:
+
+Algorithm
+==============
+3Sum
+3Sum Closest
+Add and Search Word
+Add Binary
+Add Digits
+Add Two Numbers
+Anagrams
+Arranging Coins
+Balanced Binary Tree
+Base 7
+Basic Calculator
+Beautiful Arrangement
+Best Time to Buy and Sell Stock
+Best Time to Buy and Sell Stock II
+Binary Search Tree Iterator
+Binary Tree Inorder Traversal
+Binary Tree Level Order Traversal
+Binary Tree Level Order Traversal II
+Binary Tree Paths
+Binary Tree Postorder Traversal
+Binary Tree Preorder Traversal
+Binary Tree Right Side View
+Binary Tree Zigzag Level Order Traversal
+Bitwise AND of Numbers Range
+Bulb Switcher
+Bulls and Cows
+Burst Balloons
+Candy
+Climbing Stairs
+Clone Graph
+Coin Change
+Combinations
+Combination Sum
+Combination Sum II
+Combination Sum III
+Compare Version Numbers
+Construct Binary Tree from Preorder and Inorder Traversal
+Construct Binary Tree from Inorder and Postorder Traversal
+Construct the Rectangle
+Container With Most Water
+Contains Duplicate
+Contains Duplicate II
+Convert a Number to Hexadecimal
+Convert BST to Greater Tree
+Convert Sorted Array to Binary Search Tree
+Copy List with Random Pointer
+Count and Say
+Count Complete Tree Nodes
+Count Numbers with Unique Digits
+Count Primes
+Counting Bits
+Data Stream as Disjoint Intervals
+Decode String
+DecodeWays
+Delete Node in a Linked List
+Design Twitter
+Detect Capital
+Diagonal Traverse
+Diameter of Binary Tree
+Different Ways to Add Parentheses
+Divide Two Integers
+Dungeon Game
+Edit Distance
+Evaluate Reverse Polish Notation
+Excel Sheet Column Title
+Excel Sheet Column Number
+Factorial Trailing Zeroes
+Find All Anagrams in a String
+Find Bottom Left Tree Value
+Find Largest Value in Each Tree Row
+Find Median from Data Stream
+Find Minimum in Rotated Sorted Array
+Find Minimum in Rotated Sorted Array II
+Find Peak Element
+Find Right Interval
+Find the Duplicate Number
+Find the Difference
+First Missing Positive
+First Unique Character in a String
+Fizz Buzz
+Flatten Binary Tree to Linked List
+Flatten Nested List Iterator
+Fraction to Recurring Decimal
+Friend Circles
+Game of Life
+Gas Station
+Generate Parentheses
+Gray Code
+Guess Number Higher or Lower
+H-Index
+H-Index II
+Happy Number
+House Robber
+House Robber II
+House Robber III
+Implement Queue using Stacks
+Implement Stack using Queues
+Implement strStr()
+Implement Trie
+Increasing Triplet Subsequence
+Insert Interval
+Insertion Sort List
+Integer Break
+Integer to English Words
+Integer to Roman
+Intersection of Two Arrays
+Intersection of Two Arrays II
+Intersection of Two Linked Lists
+Invert Binary Tree
+Is Subsequence
+Island Perimeter
+Isomorphic Strings
+Jump Game
+Jump Game II
+Keyboard Row
+Kth Largest Element in an Array
+Kth Smallest Element in a BST
+Largest Number
+Length of Last Word
+Letter Combinations of a Phone Number
+License Key Formatting
+Linked List Random Node
+LinkedListCycle
+LinkedListCycle II
+Longest Absolute File Path
+Longest Common Prefix
+Longest Consecutive Sequence
+Longest Increasing Subsequence
+Longest Palindromic Substring
+Longest Substring Without Repeating Characters
+Longest Valid Parentheses
+Lowest Common Ancestor of a Binary Search Tree
+Lowest Common Ancestor of a Binary Tree
+LRU Cache
+Majority Element
+Maximum Depth of Binary Tree
+Maximum Product of Word Lengths
+Maximum Subarray
+Merge Intervals
+Merge K Sorted Lists
+Merge Sorted Array
+Merge Two Sorted Lists
+Min Stack
+Minimum Absolute Difference in BST
+Minimum Depth of Binary Tree
+Minimum Moves to Equal Array Elements
+Minimum Path Sum
+Minimum Size Subarray Sum
+Minimum Time Difference
+Missing Number
+Most Frequent Subtree Sum
+Move Zeroes
+Multiply Strings
+N-Queens
+N-Queens II
+Next Greater Element I
+Next Greater Element III
+Next Permutation
+Nim Game
+Number of 1 Bits
+Number of Boomerangs
+Number of Digit One
+Number of Islands
+Odd Even Linked List
+Palindrome Linked List
+Palindrome Number
+Palindrome Partitioning
+Palindrome Partitioning II
+Partition List
+Pascal Triangle II
+Pascal Triangle
+Path Sum II
+Path Sum
+Peeking Iterator
+Permutation Sequence
+Permutations II
+Permutations
+Plus One
+Populating Next Right Pointers in Each Node II
+Populating Next Right Pointers in Each Node
+Pow(x, n)
+Power of Four
+Power of Three
+Power of Two
+Product of Array Except Self
+Range Sum Query - Immutable
+Range Sum Query 2D - Immutable
+Ransom Note
+Reconstruct Original Digits from English
+Recover Binary Search Tree
+Rectangle Area
+Regular Expression Matching
+Relative Ranks
+Remove Duplcate Letters
+Remove Duplicates from Sorted Array II
+Remove Duplicates from Sorted Array
+Remove Duplicates from Sorted List II
+Remove Duplicates from Sorted List
+Remove Element
+Remove Linked List Elements
+Remove Nth Node From End of List
+Reorder List
+Repeated Substring Pattern
+Restore IP Addresses
+Reverse Bits
+Reverse Integer
+Reverse Linked List
+Reverse Linked List II
+Reverse Nodes in k-Group
+Reverse String
+Reverse String II
+Reverse Vowels of a String
+Reverse Words in a String
+Reverse Words in a String III
+Roman to Integer
+Rotate Array
+Rotate Image
+Rotate List
+Same Tree
+Scramble String
+Search a 2D Matrix
+Search for a Range
+Search in Rotated Sorted Array
+Search in Rotated Sorted Array II
+Search Insert Position
+Self Crossing
+Serialize and Deserialize Binary Tree
+Set Matrix Zeroes
+Shuffle An Array
+Simplify Path
+Single Number
+Single Number II
+Single Number III
+Sort Colors
+Sort List
+Spiral Matrix
+Spiral Matrix II
+Sqrt(x)
+String to Integer
+Subsets
+Subsets II
+Substring with Concatenation of All Words
+Sudoku Solver
+Sum Root to Leaf Numbers
+Summary Ranges
+Surrounded Regions
+Swap Nodes in Pairs
+Symmetric Tree
+Target Sum
+Teemo Attacking
+Text Justification
+Third Maximum Number
+Top K Frequent Elements
+Trapping Rain Water
+Triangle
+TwoSum
+Ugly Number
+Ugly Number II
+Unique Binary Search Trees
+Unique Binary Search Trees II
+Unique Paths
+Unique Paths II
+UTF-8 Validation
+Valid Anagram
+Valid Number
+Valid Palindrome
+Valid Parentheses
+Valid Sudoku
+Validate Binary Search Tree
+Verify Preorder Serialization of a Binary Tree
+Wiggle Sort II
+Wildcard Matching
+Word Break
+Word Break II
+Word Pattern
+Word Search
+ZigZag Conversion
+
+Working:
+==============
+Distinct Subsequences (Time Limit Exceeded)
+Median of Two Sorted Arrays (Time Limit Exceeded)
+Word Ladder (Time Limit Exceeded)
+
+
+
+Database
+=========
+Combine Two Tables
+Consecutive Numbers
+Customers Who Never Order
+Delete Duplicate Emails
+Department Highest Salary
+Duplicate Emails
+Employees Earning More Than Their Managers
+Nth Highest Salary
+Rank Scores
+Rising Temperature
+Second Highest Salary
+
+Shell
+======
+Tenth Line
+Transpose File
+Valid Phone Numbers
+Word Frequency
