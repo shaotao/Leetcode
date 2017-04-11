@@ -29,6 +29,7 @@ Binary Tree Preorder Traversal
 Binary Tree Right Side View
 Binary Tree Zigzag Level Order Traversal
 Bitwise AND of Numbers Range
+Brick Wall
 Bulb Switcher
 Bulls and Cows
 Burst Balloons
