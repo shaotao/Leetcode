@@ -10,6 +10,7 @@ Algorithm
 Add and Search Word
 Add Binary
 Add Digits
+Add Strings
 Add Two Numbers
 Anagrams
 Arranging Coins
