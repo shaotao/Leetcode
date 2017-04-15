@@ -62,6 +62,7 @@ Data Stream as Disjoint Intervals
 Decode String
 DecodeWays
 Delete Node in a Linked List
+Design TinyURL
 Design Twitter
 Detect Capital
 Diagonal Traverse
