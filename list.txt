@@ -108,6 +108,7 @@ Implement Stack using Queues
 Implement strStr()
 Implement Trie
 Increasing Triplet Subsequence
+Insert Delete GetRandom O(1)
 Insert Interval
 Insertion Sort List
 Integer Break
