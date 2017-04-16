@@ -170,6 +170,7 @@ Next Greater Element I
 Next Greater Element III
 Next Permutation
 Nim Game
+Nth Digit
 Number of 1 Bits
 Number of Boomerangs
 Number of Digit One
