@@ -141,6 +141,7 @@ Longest Consecutive Sequence
 Longest Increasing Subsequence
 Longest Palindromic Substring
 Longest Substring Without Repeating Characters
+Longest Uncommon Subsequence I
 Longest Valid Parentheses
 Lowest Common Ancestor of a Binary Search Tree
 Lowest Common Ancestor of a Binary Tree
@@ -252,6 +253,7 @@ Spiral Matrix
 Spiral Matrix II
 Sqrt(x)
 String to Integer
+Student Attendance Record I
 Subsets
 Subsets II
 Substring with Concatenation of All Words
