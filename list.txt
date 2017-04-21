@@ -101,6 +101,7 @@ Gray Code
 Guess Number Higher or Lower
 H-Index
 H-Index II
+Hamming Distance
 Happy Number
 House Robber
 House Robber II

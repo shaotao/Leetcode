@@ -17,7 +17,7 @@ class ListNode
 
 class LinkedListCycle
 {
-    public static void main(String[] args)
+    public static void main(String[] args) throws Exception
     {
 	System.out.println("=== Linked List Cycle ===");
 	
@@ -49,6 +49,31 @@ class LinkedListCycle
 
 	has_cycle = solution.hasCycle(null);	
 	System.out.println("has_cycle = "+has_cycle);
+
+        ListNode head = readFile("input.txt");
+	has_cycle = solution.hasCycle(head);	
+	System.out.println("has_cycle = "+has_cycle);
+    }
+
+    public static ListNode readFile(String filename) throws Exception {
+        Scanner scan = new Scanner(new File(filename)).useDelimiter(",");
+        ListNode head = null;
+        ListNode prev = null;
+        HashMap<Integer, ListNode> map = new HashMap<Integer, ListNode>();
+        while(scan.hasNextInt()) {
+            int i = scan.nextInt();
+            ListNode n = map.get(i);
+            if(n == null) {
+                n = new ListNode(i);
+                map.put(i, n);
+            }
+
+            if(prev == null) { head = n; }
+            else { prev.next = n; }
+            prev = n;
+        }
+
+        return head;
     }
 }
 
@@ -59,6 +84,41 @@ class Solution
     {
     }
     
+    public boolean hasCycle1(ListNode head)
+    {
+        ListNode fast = head;
+        ListNode slow = head;
+        
+        if(head == null) { return false; }
+
+        while(fast.next != null && fast.next.next != null) {
+            fast = fast.next.next;
+            slow = slow.next;
+            if(slow == fast) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    public boolean hasCycle2(ListNode head)
+    {
+	ListNode p1 = head;
+	ListNode p2 = head;
+        
+	while(p1 != null && p2 != null)
+	{
+            p1 = p1.next;
+            if(p2.next == null) { return false; }
+            else { p2 = p2.next.next; }
+
+            if(p1 == p2) { return true; }
+	}	
+	
+	return false;
+    }
+
     public boolean hasCycle(ListNode head)
     {
 	ListNode node = head;

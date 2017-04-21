@@ -8,10 +8,10 @@ class ReverseWordsInAStringIII
     {
 	System.out.println("=== Reverse Words in a String III ===");
 	Solution solution = new Solution();
+
         String s = "Let's take LeetCode contest";
-        String ret = solution.reverseWords(s);
-        System.out.println("s = "+s);
-        System.out.println("reverse = "+ret);
+
+        System.out.println("s = \""+s+"\", reverse = \""+solution.reverseWords(s)+"\"");
     }
 }
 
@@ -19,15 +19,25 @@ class ReverseWordsInAStringIII
 class Solution
 {
     public String reverseWords(String s) {
-        if(s == null || s.length() == 0) { return s; }
-
-        ArrayList<String> list = new ArrayList<String>();
-        String[] strs = s.split(" ");
-        for(String str : strs) {
-            StringBuffer buf = new StringBuffer(str);
-            list.add(buf.reverse().toString());
+        if(s == null) { return null; }
+        StringBuffer total = new StringBuffer();
+        StringBuffer buf = new StringBuffer();
+        for(char ch : s.toCharArray()) {
+            if(ch == ' ') {
+                if(buf.length() > 0) {
+                    total.append(buf.reverse());
+                    buf = new StringBuffer();
+                }
+                total.append(ch);
+            } else {
+                buf.append(ch);
+            }
+        }
+        
+        if(buf.length() > 0) {
+            total.append(buf.reverse());
         }
 
-        return String.join(" ", list);
+        return total.toString();
     }
 }
