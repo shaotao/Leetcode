@@ -275,7 +275,8 @@ Third Maximum Number
 Top K Frequent Elements
 Trapping Rain Water
 Triangle
-TwoSum
+Two Sum
+Two Sum II
 Ugly Number
 Ugly Number II
 Unique Binary Search Trees
