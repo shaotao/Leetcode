@@ -265,6 +265,7 @@ Subsets II
 Substring with Concatenation of All Words
 Sudoku Solver
 Sum Root to Leaf Numbers
+Sum of Left Leaves
 Summary Ranges
 Surrounded Regions
 Swap Nodes in Pairs
