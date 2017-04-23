@@ -14,6 +14,7 @@ Add Strings
 Add Two Numbers
 Anagrams
 Arranging Coins
+Array Partition I
 Assign Cookies
 Balanced Binary Tree
 Base 7
