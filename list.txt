@@ -143,6 +143,7 @@ Longest Absolute File Path
 Longest Common Prefix
 Longest Consecutive Sequence
 Longest Increasing Subsequence
+Longest Palindrome
 Longest Palindromic Substring
 Longest Substring Without Repeating Characters
 Longest Uncommon Subsequence I
