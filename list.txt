@@ -187,6 +187,7 @@ Number of 1 Bits
 Number of Boomerangs
 Number of Digit One
 Number of Islands
+Number of Segments in a String
 Odd Even Linked List
 Pacific Atlantic Water Flow
 Palindrome Linked List
