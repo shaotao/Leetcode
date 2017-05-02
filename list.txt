@@ -229,6 +229,7 @@ Remove Linked List Elements
 Remove Nth Node From End of List
 Reorder List
 Repeated Substring Pattern
+Reshape the Matrix
 Restore IP Addresses
 Reverse Bits
 Reverse Integer
