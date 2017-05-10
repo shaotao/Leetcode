@@ -73,6 +73,7 @@ Detect Capital
 Diagonal Traverse
 Diameter of Binary Tree
 Different Ways to Add Parentheses
+Distribute Candies
 Divide Two Integers
 Dungeon Game
 Edit Distance
