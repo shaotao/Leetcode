@@ -201,6 +201,7 @@ Pascal Triangle
 Path Sum II
 Path Sum
 Peeking Iterator
+Permutation in String
 Permutation Sequence
 Permutations II
 Permutations
