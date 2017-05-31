@@ -306,6 +306,7 @@ Valid Number
 Valid Palindrome
 Valid Parentheses
 Valid Perfect Square
+Valid Square
 Valid Sudoku
 Validate Binary Search Tree
 Verify Preorder Serialization of a Binary Tree
