@@ -39,6 +39,7 @@ Bulb Switcher
 Bulls and Cows
 Burst Balloons
 Candy
+Can Place Flowers
 Climbing Stairs
 Clone Graph
 Coin Change
