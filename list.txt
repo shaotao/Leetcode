@@ -172,6 +172,7 @@ Merge Two Sorted Lists
 Min Stack
 Minimum Absolute Difference in BST
 Minimum Depth of Binary Tree
+Minimum Factorization
 Minimum Index Sum of Two Lists
 Minimum Moves to Equal Array Elements
 Minimum Path Sum
