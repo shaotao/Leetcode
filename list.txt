@@ -163,6 +163,7 @@ LRU Cache
 Majority Element
 Max Consecutive Ones
 Maximum Depth of Binary Tree
+Maximum Distance in Arrays
 Maximum Product of Word Lengths
 Maximum Subarray
 Merge Intervals
