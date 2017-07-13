@@ -271,6 +271,7 @@ Simplify Path
 Single Number
 Single Number II
 Single Number III
+Solve the Equation
 Sort Colors
 Sort List
 Spiral Matrix
