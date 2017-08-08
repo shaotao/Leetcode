@@ -302,6 +302,7 @@ Trapping Rain Water
 Triangle
 Two Sum
 Two Sum II
+Two Sum IV - Input is a BST
 Ugly Number
 Ugly Number II
 Unique Binary Search Trees
