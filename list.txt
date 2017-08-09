@@ -5,6 +5,7 @@ Completed:
 
 Algorithm
 ==============
+654. Maximum Binary Tree
 3Sum
 3Sum Closest
 Add and Search Word
