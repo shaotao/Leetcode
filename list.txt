@@ -8,6 +8,7 @@ Algorithm
 654. Maximum Binary Tree
 655. Print Binary Tree
 657. Judge Route Circle
+660. Remove 9
 3Sum
 3Sum Closest
 Add and Search Word
