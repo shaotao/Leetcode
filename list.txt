@@ -9,6 +9,7 @@ Algorithm
 655. Print Binary Tree
 657. Judge Route Circle
 660. Remove 9
+661. Image Smoother
 3Sum
 3Sum Closest
 Add and Search Word
