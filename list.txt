@@ -10,6 +10,7 @@ Algorithm
 657. Judge Route Circle
 660. Remove 9
 661. Image Smoother
+663. Equal Tree Partition
 3Sum
 3Sum Closest
 Add and Search Word
