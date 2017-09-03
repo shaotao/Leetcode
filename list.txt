@@ -12,6 +12,7 @@ Algorithm
 661. Image Smoother
 662. Maximum Width of Binary Tree
 663. Equal Tree Partition
+665. Non-decreasing Array
 3Sum
 3Sum Closest
 Add and Search Word
