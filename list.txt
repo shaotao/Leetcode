@@ -15,6 +15,7 @@ Algorithm
 665. Non-decreasing Array
 680. Valid Palindrome II
 682. Baseball Game
+683. K Empty Slots
 690. Employee Importance
 3Sum
 3Sum Closest
