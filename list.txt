@@ -14,6 +14,7 @@ Algorithm
 663. Equal Tree Partition
 665. Non-decreasing Array
 680. Valid Palindrome II
+681. Next Closest Time
 682. Baseball Game
 683. K Empty Slots
 690. Employee Importance
