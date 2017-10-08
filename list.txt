@@ -18,6 +18,7 @@ Algorithm
 682. Baseball Game
 683. K Empty Slots
 690. Employee Importance
+695. Max Area of Island
 3Sum
 3Sum Closest
 Add and Search Word
