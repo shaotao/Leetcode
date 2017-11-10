@@ -21,6 +21,7 @@ Algorithm
 693. Binary Number with Alternating Bits
 695. Max Area of Island
 696. Count Binary Substrings
+697. Degree of an Array
 3Sum
 3Sum Closest
 Add and Search Word
