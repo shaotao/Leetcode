@@ -23,6 +23,7 @@ Algorithm
 696. Count Binary Substrings
 697. Degree of an Array
 728. Self Dividing Numbers
+739. Daily Temperature
 740. Delete and Earn
 3Sum
 3Sum Closest

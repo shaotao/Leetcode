@@ -37,15 +37,37 @@ class Solution
             int t = temperatures[i];
             for (int j = t+1; j <= 100; j++) {
                 List<Integer> list = map.get(j);
-                for (int idx : list) {
-                    if(idx > i && (ret[i] == 0 || (idx-i) < ret[i])) {
-                        ret[i] = idx-i;
-                        break;
-                    }
+                int largerIdx = findFirstLarger(list, 0, list.size()-1, i);
+                if (largerIdx < 0) {
+                    continue;
+                }
+                if (ret[i]==0 || (largerIdx - i) < ret[i]) {
+                    ret[i] = largerIdx - i;
                 }
             }
         }
         
         return ret;
+    }
+
+    public int findFirstLarger(List<Integer> list, int left, int right, int idx) {
+        if(right < left) { return -1; }
+        
+        if (right - left <= 1) {
+            if (list.get(left) > idx) {
+                return list.get(left);
+            } else if(list.get(right) > idx) {
+                return list.get(right);
+            } else {
+                return -1;
+            }
+        } else {
+            int mid = (left+right)/2;
+            if (list.get(mid) < idx) {
+                return findFirstLarger(list, mid, right, idx);
+            } else {
+                return findFirstLarger(list, left, mid, idx);
+            }
+        }
     }
 }
