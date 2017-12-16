@@ -25,6 +25,7 @@ Algorithm
 728. Self Dividing Numbers
 739. Daily Temperature
 740. Delete and Earn
+742. Closest Leaf in a Binary Tree
 3Sum
 3Sum Closest
 Add and Search Word
