@@ -26,6 +26,7 @@ Algorithm
 739. Daily Temperature
 740. Delete and Earn
 742. Closest Leaf in a Binary Tree
+744. Find Smallest Letter Greater Than Target
 3Sum
 3Sum Closest
 Add and Search Word
@@ -376,3 +377,4 @@ Tenth Line
 Transpose File
 Valid Phone Numbers
 Word Frequency
+
