@@ -27,6 +27,7 @@ Algorithm
 740. Delete and Earn
 742. Closest Leaf in a Binary Tree
 744. Find Smallest Letter Greater Than Target
+769. Max Chunks To Make Sorted
 3Sum
 3Sum Closest
 Add and Search Word
