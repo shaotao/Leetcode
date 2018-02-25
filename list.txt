@@ -28,6 +28,7 @@ Algorithm
 742. Closest Leaf in a Binary Tree
 744. Find Smallest Letter Greater Than Target
 746. Min Cost Climbing Stairs
+747. Largest Number At Least Twice of Others
 766. Toeplitz Matrix
 767. Reorganize String
 768. Max Chunks To Make Sorted II
