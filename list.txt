@@ -32,6 +32,7 @@ Algorithm
 768. Max Chunks To Make Sorted II
 769. Max Chunks To Make Sorted
 771. Jewels and Stones
+777. Swap Adjacent in LR String
 779. K-th Symbol in Grammar
 781. Rabbits in Forest
 783. Minimum Distance Between BST Nodes
