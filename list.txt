@@ -43,6 +43,7 @@ Algorithm
 804. Unique Morse Code Words
 806. Number of Lines To Write String
 807. Max Increase to Keep City Skyline
+811. Subdomain Visit Count
 3Sum
 3Sum Closest
 Add and Search Word
