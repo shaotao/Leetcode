@@ -47,6 +47,7 @@ Algorithm
 811. Subdomain Visit Count
 812. Largest Triangle Area
 814. Binary Tree Pruning
+815. Bus Routes
 3Sum
 3Sum Closest
 Add and Search Word
