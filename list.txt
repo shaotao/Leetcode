@@ -50,6 +50,7 @@ Algorithm
 815. Bus Routes
 817. Linked List Components
 819. Most Common Word
+822. Card Flipping Game
 3Sum
 3Sum Closest
 Add and Search Word
