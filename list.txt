@@ -38,6 +38,7 @@ Algorithm
 779. K-th Symbol in Grammar
 781. Rabbits in Forest
 783. Minimum Distance Between BST Nodes
+794. Valid Tic-Tac-Toe State
 796. Rotate String
 799. Champagne Tower
 804. Unique Morse Code Words
