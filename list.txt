@@ -55,6 +55,7 @@ Algorithm
 819. Most Common Word
 821. Shortest Distance to a Character
 822. Card Flipping Game
+824. Goat Latin
 3Sum
 3Sum Closest
 Add and Search Word
