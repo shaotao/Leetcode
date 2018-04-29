@@ -57,6 +57,7 @@ Algorithm
 822. Card Flipping Game
 824. Goat Latin
 825. Friends of Appropriate Ages
+826. Most Profit Assigning Work
 3Sum
 3Sum Closest
 Add and Search Word

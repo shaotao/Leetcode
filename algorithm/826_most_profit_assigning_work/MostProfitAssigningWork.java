@@ -45,21 +45,26 @@ class Solution
         }
 
         Collections.sort(diffList);
-
+        int[] profArray = new int[diffList.size()];
         for (int i = 0; i < diffList.size(); i++) {
-            for (int j = i+1; j < diffList.size(); j++) {
-                if (map.get(diffList.get(j)) < map.get(diffList.get(i))) {
-                    map.put(diffList.get(j), map.get(diffList.get(i)));
-                }
+            profArray[i] = map.get(diffList.get(i));
+        }
+
+        int highest = profArray[0];
+        for (int i = 0; i < profArray.length; i++) {
+            if(profArray[i] < highest) {
+                profArray[i] = highest;
+            } else {
+                highest = profArray[i];
             }
         }
 
         // use binary search to find the max diff matched by each worker
         // sum up the profit from map
         for (int workerAbility : worker) {
-            int key = findKey(diffList, 0, diffList.size()-1, workerAbility);
-            if(key >= 0) {
-                maxProfit += map.get(diffList.get(key));
+            int pos = findKey(diffList, 0, diffList.size()-1, workerAbility);
+            if(pos >= 0) {
+                maxProfit += profArray[pos];
             }
         }
 
