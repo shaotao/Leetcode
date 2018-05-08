@@ -5,6 +5,7 @@ Completed:
 
 Algorithm
 ==============
+397. Integer Replacement
 654. Maximum Binary Tree
 655. Print Binary Tree
 657. Judge Route Circle
