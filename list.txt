@@ -62,6 +62,7 @@ Algorithm
 826. Most Profit Assigning Work
 827. Making A Large Island
 835. Image Overlap
+840. Magic Squares In Grid
 3Sum
 3Sum Closest
 Add and Search Word
