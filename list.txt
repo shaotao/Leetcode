@@ -63,6 +63,7 @@ Algorithm
 827. Making A Large Island
 835. Image Overlap
 840. Magic Squares In Grid
+841. Keys and Rooms
 3Sum
 3Sum Closest
 Add and Search Word
