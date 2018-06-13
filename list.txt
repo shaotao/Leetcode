@@ -61,6 +61,7 @@ Algorithm
 825. Friends of Appropriate Ages
 826. Most Profit Assigning Work
 827. Making A Large Island
+832. Flipping an Image
 835. Image Overlap
 838. Push Dominoes
 840. Magic Squares In Grid
