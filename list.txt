@@ -62,6 +62,7 @@ Algorithm
 826. Most Profit Assigning Work
 827. Making A Large Island
 832. Flipping an Image
+833. Find And Replace in String
 835. Image Overlap
 838. Push Dominoes
 840. Magic Squares In Grid
