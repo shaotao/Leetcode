@@ -69,6 +69,7 @@ Algorithm
 844. Backspace String Compare
 845. Longest Mountain in Array
 846. Hand of Straights
+851. Loud and Rich
 3Sum
 3Sum Closest
 Add and Search Word
