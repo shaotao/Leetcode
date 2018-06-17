@@ -31,6 +31,7 @@ Algorithm
 695. Max Area of Island
 696. Count Binary Substrings
 697. Degree of an Array
+720. Longest Word in Dictionary
 728. Self Dividing Numbers
 733. Flood Fill
 739. Daily Temperature
