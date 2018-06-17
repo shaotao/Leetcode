@@ -7,6 +7,7 @@ Algorithm
 ==============
 397. Integer Replacement
 595. Big Countries
+596. Classes More Than 5 Students
 654. Maximum Binary Tree
 655. Print Binary Tree
 657. Judge Route Circle
