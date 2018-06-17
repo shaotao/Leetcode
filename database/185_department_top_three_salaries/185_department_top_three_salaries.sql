@@ -50,14 +50,9 @@ Write a SQL query to find employees who earn the top three salaries in each of t
 /*
 Get the 3rd highest salary in each department
 */
-SELECT DISTINCT stadium.id, stadium.date, stadium.people 
-FROM stadium, (SELECT S1.id AS id1, S1.date date1, S1.people people1, 
-	                  S2.id AS id2, S2.date date2, S2.people people2, 
-					  S3.id AS id3, S3.date date3, S3.people people3 
-			   FROM stadium S1 JOIN stadium S2 ON S2.id = S1.id+1
-                               JOIN stadium S3 on S3.id = S1.id+2
-               WHERE S1.people >= 100 AND S2.people >= 100 AND S3.people >= 100) T 
-WHERE (stadium.id = T.id1 AND stadium.date = T.date1) OR 
-      (stadium.id = T.id2 AND stadium.date = T.date2) OR 
-	  (stadium.id = T.id3 AND stadium.date = T.date3);
-
+SELECT T.Department, T.Employee, T.Salary
+FROM (SELECT D.Id AS DepartmentId, D.Name AS Department,
+       E.Name AS Employee, E.Salary AS Salary
+       FROM Employee E JOIN Department D ON E.DepartmentId = D.Id
+       ORDER BY D.Name, E.Salary DESC) T
+WHERE (SELECT COUNT(DISTINCT(Employee.Salary)) FROM Employee WHERE Employee.DepartmentId = T.DepartmentId AND Employee.Salary > T.Salary) < 3;

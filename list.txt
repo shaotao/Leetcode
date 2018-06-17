@@ -5,6 +5,7 @@ Completed:
 
 Algorithm
 ==============
+185. Department Top Three Salaries
 262. Trips and Users
 397. Integer Replacement
 595. Big Countries
