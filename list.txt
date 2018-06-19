@@ -15,6 +15,7 @@ Algorithm
 620. Not Boring Movies
 626. Exchange Seats
 627. Swap Salary
+637. Average of Levels in Binary Tree
 654. Maximum Binary Tree
 655. Print Binary Tree
 657. Judge Route Circle
