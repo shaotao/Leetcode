@@ -56,6 +56,7 @@ Algorithm
 781. Rabbits in Forest
 783. Minimum Distance Between BST Nodes
 784. Letter Case Permutation
+788. Rotated Digits
 794. Valid Tic-Tac-Toe State
 796. Rotate String
 799. Champagne Tower
