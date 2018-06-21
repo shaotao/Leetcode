@@ -25,6 +25,7 @@ Algorithm
 663. Equal Tree Partition
 665. Non-decreasing Array
 669. Trim a Binary Search Tree
+674. Longest Continuous Increasing Subsequence
 680. Valid Palindrome II
 681. Next Closest Time
 682. Baseball Game
