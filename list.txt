@@ -60,6 +60,7 @@ Algorithm
 788. Rotated Digits
 794. Valid Tic-Tac-Toe State
 796. Rotate String
+797. All Paths From Source to Target
 799. Champagne Tower
 804. Unique Morse Code Words
 806. Number of Lines To Write String
