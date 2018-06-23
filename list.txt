@@ -46,6 +46,7 @@ Algorithm
 746. Min Cost Climbing Stairs
 747. Largest Number At Least Twice of Others
 762. Prime Number of Set Bits in Binary Representation
+763. Partition Labels
 766. Toeplitz Matrix
 767. Reorganize String
 768. Max Chunks To Make Sorted II
