@@ -9,6 +9,7 @@ Algorithm
 262. Trips and Users
 397. Integer Replacement
 406. Queue Reconstruction by Height
+540. Single Element in a Sorted Array
 595. Big Countries
 596. Classes More Than 5 Students
 601. Human Traffic of Stadium
