@@ -49,6 +49,7 @@ Algorithm
 744. Find Smallest Letter Greater Than Target
 746. Min Cost Climbing Stairs
 747. Largest Number At Least Twice of Others
+748. Shortest Completing Word
 762. Prime Number of Set Bits in Binary Representation
 763. Partition Labels
 766. Toeplitz Matrix
