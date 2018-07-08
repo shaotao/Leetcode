@@ -45,6 +45,7 @@ Algorithm
 697. Degree of an Array
 717. 1-bit and 2-bit Characters
 720. Longest Word in Dictionary
+725. Split Linked List in Parts
 728. Self Dividing Numbers
 733. Flood Fill
 739. Daily Temperature
