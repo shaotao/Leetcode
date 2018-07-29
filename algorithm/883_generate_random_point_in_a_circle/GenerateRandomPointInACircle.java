@@ -36,6 +36,18 @@ class Solution
     }
 
     public double[] randPoint() {
+        double ceta = rand.nextDouble()*2*Math.PI;
+        double r = radius*Math.sqrt(rand.nextDouble());
+        double x = Math.cos(ceta)*r;
+        double y = Math.sin(ceta)*r;
+
+        double[] ret = new double[2];
+        ret[0] = x_center + x;
+        ret[1] = y_center + y;
+        return ret;
+    }
+
+    public double[] randPoint2() {
         double x = 0;
         double y = 0;
         do {
