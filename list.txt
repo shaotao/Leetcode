@@ -107,6 +107,7 @@ Algorithm
 851. Loud and Rich
 852. Peak Index in a Mountain Array
 853. Car Fleet
+856. Score of Parentheses
 880. Random Pick with Weight
 883. Generate Random Point in a Circle
 3Sum
