@@ -110,6 +110,7 @@ Algorithm
 856. Score of Parentheses
 880. Random Pick with Weight
 883. Generate Random Point in a Circle
+887. Projection Area of 3D Shapes
 888. Uncommon Words from Two Sentences
 3Sum
 3Sum Closest
