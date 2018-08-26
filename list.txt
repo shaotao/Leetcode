@@ -111,8 +111,9 @@ Algorithm
 880. Random Pick with Weight
 881. Boats to Save People
 883. Generate Random Point in a Circle
+884. Uncommon Words from Two Sentences
 887. Projection Area of 3D Shapes
-888. Uncommon Words from Two Sentences
+888. Fair Candy Swap
 3Sum
 3Sum Closest
 Add and Search Word
