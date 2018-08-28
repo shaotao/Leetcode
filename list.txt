@@ -114,6 +114,7 @@ Algorithm
 884. Uncommon Words from Two Sentences
 887. Projection Area of 3D Shapes
 888. Fair Candy Swap
+892. Surface Area of 3D Shapes
 893. Groups of Special-Equivalent Strings
 3Sum
 3Sum Closest
