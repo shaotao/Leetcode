@@ -117,6 +117,7 @@ Algorithm
 892. Surface Area of 3D Shapes
 893. Groups of Special-Equivalent Strings
 896. Monotonic Array
+897. Increasing Order Search Tree
 3Sum
 3Sum Closest
 Add and Search Word
