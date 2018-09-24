@@ -119,6 +119,7 @@ Algorithm
 896. Monotonic Array
 897. Increasing Order Search Tree
 905. Sort Array by Parity
+908. Smallest Range I
 3Sum
 3Sum Closest
 Add and Search Word
