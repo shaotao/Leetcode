@@ -118,6 +118,7 @@ Algorithm
 893. Groups of Special-Equivalent Strings
 896. Monotonic Array
 897. Increasing Order Search Tree
+905. Sort Array by Parity
 3Sum
 3Sum Closest
 Add and Search Word
