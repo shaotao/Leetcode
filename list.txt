@@ -123,6 +123,7 @@ Algorithm
 911. Online Election
 953. Verifying an Alie Dictionary
 954. Array of Doubled Pairs
+958. Check Completeness of a Binary Tree
 3Sum
 3Sum Closest
 Add and Search Word

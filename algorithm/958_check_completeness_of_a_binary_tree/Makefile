@@ -1,4 +1,4 @@
-title := ImageSmoother
+title := CheckCompletenessOfABinaryTree
 all: $(title).class
 
 $(title).class: *.java
