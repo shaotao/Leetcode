@@ -121,6 +121,7 @@ Algorithm
 905. Sort Array by Parity
 908. Smallest Range I
 911. Online Election
+914. X of a Kind in a Deck of Cards
 953. Verifying an Alie Dictionary
 954. Array of Doubled Pairs
 958. Check Completeness of a Binary Tree
