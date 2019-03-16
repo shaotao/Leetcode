@@ -125,6 +125,7 @@ Algorithm
 953. Verifying an Alie Dictionary
 954. Array of Doubled Pairs
 958. Check Completeness of a Binary Tree
+999. Available Captures for Rock
 1002. Find Common Characters
 1003. Check If Word Is Valid After Substitutions
 1005. Maximize Sum Of Array After K Negations
