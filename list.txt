@@ -132,6 +132,7 @@ Algorithm
 1006. Clumsy Factorial
 1008. Construct Binary Search Tree from Preorder Traversal
 1396. Design Underground System
+1399. Count Largest Group
 3Sum
 3Sum Closest
 Add and Search Word
